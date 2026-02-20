@@ -50,9 +50,9 @@ Only includes well-known local AI/LLM projects from recognizable upstreams; excl
    - Popularity: 1.889113 (15 votes)
    - AUR: https://aur.archlinux.org/packages/llama.cpp-cuda
    - Notes: Port of Facebook's LLaMA model in C/C++ (with NVIDIA CUDA optimizations)
-   - Status: Not found in Guix or nonguix (name-based check)
+   - Status: Packaging in progress
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: IN_PROGRESS
 
 ** TODO 07. jan-bin
    - Popularity: 1.463711 (12 votes)
