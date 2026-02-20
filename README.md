@@ -16,10 +16,17 @@ Gaurix is a Guix channel for AUR→Guix conversion experiments and packaging.
 - `channels.scm` — sample file for adding this channel to Guix
 - `tests/` — test scaffolding
 
+## Available packages (initial)
+
+- `hello-gaurix`
+- `localsend-bin` (from popular AUR package `localsend-bin`, not present in Guix/nonguix at packaging time)
+
 ## Quick test
 
 ```bash
 guix time-machine -C channels.scm -- build hello-gaurix
+# or
+guix time-machine -C channels.scm -- build localsend-bin
 ```
 
 ## Add channel
