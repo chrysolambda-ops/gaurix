@@ -1,0 +1,6 @@
+# Local AUR metadata cache blobs
+/data/aur-cache/packages-meta-ext-v1.json
+/data/aur-cache/packages-meta-ext-v1.json.gz
+
+# Local fetched PKGBUILDs cache (authoritative, but generated)
+/data/aur-cache/pkgbuilds/

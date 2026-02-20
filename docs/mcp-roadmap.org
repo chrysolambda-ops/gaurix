@@ -6,34 +6,34 @@ Adopt MCP capabilities in phases to improve AUR→Guix packaging throughput, rel
 
 * Phase 1 — Core execution (Immediate)
 ** TODO Terminal/Command MCP (sandboxed)
-- [ ] Can run `guix build -L guix <pkg>` reliably
-- [ ] Can run `guix lint` and capture output
-- [ ] Can run deterministic package test commands per iteration
-- [ ] Guardrails: deny destructive host actions by default
+- [X] Can run `guix build -L guix <pkg>` reliably
+- [X] Can run `guix lint` and capture output
+- [X] Can run deterministic package test commands per iteration
+- [X] Guardrails: deny destructive host actions by default
 - Acceptance:
   - One full package iteration can be completed (draft→build→result) without manual shell intervention.
 
 ** TODO Filesystem MCP
-- [ ] Create/modify `guix/gaurix/packages/*.scm`
-- [ ] Update `guix/gaurix/packages.scm` exports
-- [ ] Update `todo_*_packages.org` statuses (TODO/IN_PROGRESS/DONE/FAILED)
-- [ ] Write iteration notes under `docs/` or `reports/`
+- [X] Create/modify `guix/gaurix/packages/*.scm`
+- [X] Update `guix/gaurix/packages.scm` exports
+- [X] Update `todo_*_packages.org` statuses (TODO/IN_PROGRESS/DONE/FAILED)
+- [X] Write iteration notes under `docs/` or `reports/`
 - Acceptance:
   - Package files and TODO statuses can be updated safely and reproducibly by workflow.
 
 ** TODO Git MCP
-- [ ] Create atomic commits per package iteration
-- [ ] Enforce commit message template for package changes
-- [ ] Show diff summary before push
-- [ ] Push only after successful build checks
+- [X] Create atomic commits per package iteration
+- [X] Enforce commit message template for package changes
+- [X] Show diff summary before push
+- [X] Push only after successful build checks
 - Acceptance:
   - Every DONE package has a single traceable commit chain and clean diff.
 
 ** TODO HTTP/Fetch MCP
-- [ ] Fetch AUR PKGBUILD via official AUR git endpoints
-- [ ] Fetch upstream release metadata/checksums from source URLs
-- [ ] Avoid scraping rendered pages
-- [ ] Respect caching and retry/backoff
+- [X] Fetch AUR PKGBUILD via official AUR git endpoints
+- [X] Fetch upstream release metadata/checksums from source URLs
+- [X] Avoid scraping rendered pages
+- [X] Respect caching and retry/backoff
 - Acceptance:
   - Source URL/hash provenance is recorded for each packaged item.
 
@@ -91,6 +91,6 @@ Adopt MCP capabilities in phases to improve AUR→Guix packaging throughput, rel
 - [ ] Keep AI-generated disclaimer visible in repo metadata and README
 
 * Definition of Done (for MCP rollout)
-- [ ] Phase 1 fully complete and used in at least 3 successful package iterations
+- [X] Phase 1 fully complete and used in at least 3 successful package iterations
 - [ ] Phase 2 complete with persistent state+logs used in production loop
 - [ ] Optional Phase 3 items adopted based on demonstrated need

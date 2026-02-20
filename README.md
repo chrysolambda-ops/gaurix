@@ -45,3 +45,6 @@ guix pull -C channels.scm
 
 This uses AUR's official metadata dump (`packages-meta-ext-v1.json.gz`) to reduce repeated network load.
 - Pick next package from TODO org files using cache: `scripts/select-next-package-from-todos.py`
+- Fetch AUR PKGBUILD (official git, non-scraping): `scripts/fetch-aur-pkgbuild.sh <pkg>`
+- Validate package (lint+build): `scripts/build-and-lint-package.sh <pkg>`
+- Update TODO status in org files: `scripts/mark-todo-status.py <pkg> <TODO|IN_PROGRESS|DONE|FAILED> [status-note]`
