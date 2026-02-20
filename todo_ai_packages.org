@@ -76,7 +76,7 @@ Only includes well-known local AI/LLM projects from recognizable upstreams; excl
    - Notes: AI pair programming in your terminal
    - Status: Not found in Guix or nonguix (name-based check)
    - Difficulty: easy
-   - TODO Status: TODO
+   - TODO Status: IN_PROGRESS
 
 ** TODO 10. koboldcpp-bin
    - Popularity: 0.941921 (6 votes)
