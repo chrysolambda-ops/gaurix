@@ -6,13 +6,13 @@ Only includes well-known local AI/LLM projects from recognizable upstreams; excl
 
 * Candidate packages (ordered by AUR popularity)
 
-** TODO 01. lmstudio-bin
+** DONE 01. lmstudio-bin
    - Popularity: 10.054799 (41 votes)
    - AUR: https://aur.archlinux.org/packages/lmstudio-bin
    - Notes: LM Studio - A desktop app for exploring and running large language models locally
-   - Status: Not found in Guix or nonguix (name-based check)
+   - Status: Packaged in Gaurix and build-tested with `guix build -L guix lmstudio-bin`
    - Difficulty: medium
-   - TODO Status: IN_PROGRESS
+   - TODO Status: DONE
 
 ** TODO 02. llama.cpp-vulkan
    - Popularity: 3.170961 (20 votes)
