@@ -1,5 +1,10 @@
 # Gaurix
 
+> [!WARNING]
+> ## ⚠️ AI-GENERATED PROJECT — DO NOT BLINDLY TRUST ⚠️
+> This repository is heavily AI-generated and may contain mistakes, insecure patterns, or incorrect package definitions.
+> **All code, packaging logic, and build instructions must be reviewed by a human before use in production.**
+
 Gaurix is a Guix channel for AUR→Guix conversion experiments and packaging.
 
 ## Layout
