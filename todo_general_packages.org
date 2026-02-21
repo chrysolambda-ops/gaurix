@@ -96,11 +96,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: FAILED
 
-** TODO 16. heroic-games-launcher-bin
+** FAILED 16. heroic-games-launcher-bin
    - Source List: /home/slime/.openclaw/workspace/todo_general_packages.org
-   - Status: Imported from external general queue file
+   - Status: Blocked: binary Electron repackaging; source-based Guix recipe not completed in this pass.
    - Difficulty: hard
-   - TODO Status: TODO
+   - TODO Status: FAILED
 
 ** TODO 17. hytale-launcher-bin
    - Source List: /home/slime/.openclaw/workspace/todo_general_packages.org
