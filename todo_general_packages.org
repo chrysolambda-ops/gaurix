@@ -1,8 +1,127 @@
 #+TITLE: Gaurix TODO — General Packages
 #+STARTUP: overview
 
-* Safety filter
-Only include legitimate, well-known packages from trusted upstreams.
+* Scope
+Top AUR packages (from your provided list) to evaluate for packaging into Gaurix.
 
-* Candidate packages (ordered by AUR popularity)
+* Candidate packages
 
+** TODO 01. yay
+   - Source List: /home/slime/.openclaw/workspace/todo_general_packages.org
+   - Status: Imported from external general queue file
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 02. paru
+   - Source List: /home/slime/.openclaw/workspace/todo_general_packages.org
+   - Status: Imported from external general queue file
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 03. visual-studio-code-bin
+   - Source List: /home/slime/.openclaw/workspace/todo_general_packages.org
+   - Status: Imported from external general queue file
+   - Difficulty: hard
+   - TODO Status: TODO
+
+** TODO 04. nvidia-580xx-utils
+   - Source List: /home/slime/.openclaw/workspace/todo_general_packages.org
+   - Status: Imported from external general queue file
+   - Difficulty: hard
+   - TODO Status: TODO
+
+** TODO 05. opencl-nvidia-580xx
+   - Source List: /home/slime/.openclaw/workspace/todo_general_packages.org
+   - Status: Imported from external general queue file
+   - Difficulty: hard
+   - TODO Status: TODO
+
+** TODO 06. nvidia-580xx-dkms
+   - Source List: /home/slime/.openclaw/workspace/todo_general_packages.org
+   - Status: Imported from external general queue file
+   - Difficulty: hard
+   - TODO Status: TODO
+
+** TODO 07. librewolf-bin
+   - Source List: /home/slime/.openclaw/workspace/todo_general_packages.org
+   - Status: Imported from external general queue file
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 08. brave-bin
+   - Source List: /home/slime/.openclaw/workspace/todo_general_packages.org
+   - Status: Imported from external general queue file
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 09. antigravity
+   - Source List: /home/slime/.openclaw/workspace/todo_general_packages.org
+   - Status: Imported from external general queue file
+   - Difficulty: hard
+   - TODO Status: TODO
+
+** TODO 10. aur-sync-vote
+   - Source List: /home/slime/.openclaw/workspace/todo_general_packages.org
+   - Status: Imported from external general queue file
+   - Difficulty: easy
+   - TODO Status: TODO
+
+** TODO 11. zen-browser-bin
+   - Source List: /home/slime/.openclaw/workspace/todo_general_packages.org
+   - Status: Imported from external general queue file
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 12. octopi
+   - Source List: /home/slime/.openclaw/workspace/todo_general_packages.org
+   - Status: Imported from external general queue file
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 13. qt-sudo
+   - Source List: /home/slime/.openclaw/workspace/todo_general_packages.org
+   - Status: Imported from external general queue file
+   - Difficulty: easy
+   - TODO Status: TODO
+
+** TODO 14. betterbird-bin
+   - Source List: /home/slime/.openclaw/workspace/todo_general_packages.org
+   - Status: Imported from external general queue file
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 15. yay-bin
+   - Source List: /home/slime/.openclaw/workspace/todo_general_packages.org
+   - Status: Imported from external general queue file
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 16. heroic-games-launcher-bin
+   - Source List: /home/slime/.openclaw/workspace/todo_general_packages.org
+   - Status: Imported from external general queue file
+   - Difficulty: hard
+   - TODO Status: TODO
+
+** TODO 17. hytale-launcher-bin
+   - Source List: /home/slime/.openclaw/workspace/todo_general_packages.org
+   - Status: Imported from external general queue file
+   - Difficulty: hard
+   - TODO Status: TODO
+
+** TODO 18. helium-browser-bin
+   - Source List: /home/slime/.openclaw/workspace/todo_general_packages.org
+   - Status: Imported from external general queue file
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 19. localsend-bin
+   - Source List: /home/slime/.openclaw/workspace/todo_general_packages.org
+   - Status: Already packaged in Gaurix; should be marked DONE in review pass
+   - Difficulty: easy
+   - TODO Status: TODO
+
+** TODO 20. opencode-bin
+   - Source List: /home/slime/.openclaw/workspace/todo_general_packages.org
+   - Status: Imported from external general queue file
+   - Difficulty: medium
+   - TODO Status: TODO
