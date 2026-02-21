@@ -114,11 +114,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: FAILED
 
-** TODO 19. localsend-bin
+** DONE 19. localsend-bin
    - Source List: /home/slime/.openclaw/workspace/todo_general_packages.org
-   - Status: Already packaged in Gaurix; should be marked DONE in review pass
+   - Status: Already packaged in Gaurix as guix/gaurix/packages/localsend-bin.scm.
    - Difficulty: easy
-   - TODO Status: TODO
+   - TODO Status: DONE
 
 ** TODO 20. opencode-bin
    - Source List: /home/slime/.openclaw/workspace/todo_general_packages.org
