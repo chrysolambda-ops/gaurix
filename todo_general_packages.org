@@ -18,11 +18,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: FAILED
 
-** TODO 03. visual-studio-code-bin
+** FAILED 03. visual-studio-code-bin
    - Source List: /home/slime/.openclaw/workspace/todo_general_packages.org
-   - Status: Imported from external general queue file
+   - Status: Blocked: proprietary binary redistribution/licensing constraints unsuitable for inclusion here.
    - Difficulty: hard
-   - TODO Status: TODO
+   - TODO Status: FAILED
 
 ** TODO 04. nvidia-580xx-utils
    - Source List: /home/slime/.openclaw/workspace/todo_general_packages.org
