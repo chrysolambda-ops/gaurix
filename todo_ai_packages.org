@@ -54,13 +54,13 @@ Only includes well-known local AI/LLM projects from recognizable upstreams; excl
    - Difficulty: medium
    - TODO Status: FAILED
 
-** TODO 07. jan-bin
+** FAILED 07. jan-bin
    - Popularity: 1.463711 (12 votes)
    - AUR: https://aur.archlinux.org/packages/jan-bin
    - Notes: An open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM).(Prebuilt version)
-   - Status: Not found in Guix or nonguix (name-based check)
+   - Status: Blocked: Prebuilt desktop binary with GPU/runtime backend expectations (llama.cpp/TensorRT stack) not available as a straightforward reproducible Guix package in this pass
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: FAILED
 
 ** TODO 08. llama.cpp
    - Popularity: 1.194480 (12 votes)
