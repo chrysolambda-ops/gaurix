@@ -24,11 +24,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: hard
    - TODO Status: FAILED
 
-** TODO 04. nvidia-580xx-utils
+** FAILED 04. nvidia-580xx-utils
    - Source List: /home/slime/.openclaw/workspace/todo_general_packages.org
-   - Status: Imported from external general queue file
+   - Status: Blocked: proprietary NVIDIA 580xx stack with kernel/driver coupling and nonfree constraints.
    - Difficulty: hard
-   - TODO Status: TODO
+   - TODO Status: FAILED
 
 ** TODO 05. opencl-nvidia-580xx
    - Source List: /home/slime/.openclaw/workspace/todo_general_packages.org
