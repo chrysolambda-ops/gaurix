@@ -108,11 +108,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: hard
    - TODO Status: FAILED
 
-** TODO 18. helium-browser-bin
+** FAILED 18. helium-browser-bin
    - Source List: /home/slime/.openclaw/workspace/todo_general_packages.org
-   - Status: Imported from external general queue file
+   - Status: Blocked: browser binary repackaging/trademark constraints; no source recipe completed.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: FAILED
 
 ** TODO 19. localsend-bin
    - Source List: /home/slime/.openclaw/workspace/todo_general_packages.org
