@@ -38,13 +38,13 @@ Only includes well-known local AI/LLM projects from recognizable upstreams; excl
    - Difficulty: medium
    - TODO Status: FAILED
 
-** TODO 05. anythingllm-desktop-bin
+** FAILED 05. anythingllm-desktop-bin
    - Popularity: 2.524278 (8 votes)
    - AUR: https://aur.archlinux.org/packages/anythingllm-desktop-bin
    - Notes: The all-in-one AI application, tool suite, and API for RAG & Agents for Docker & Desktop.(Prebuilt version.Use system-wide electron)
-   - Status: Not found in Guix or nonguix (name-based check)
+   - Status: Blocked: Electron desktop binary plus web/backend components; packaging requires large unbundling/integration effort beyond current queue-drain pass
    - Difficulty: hard
-   - TODO Status: TODO
+   - TODO Status: FAILED
 
 ** FAILED 06. llama.cpp-cuda
    - Popularity: 1.889113 (15 votes)
