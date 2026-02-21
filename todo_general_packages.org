@@ -120,8 +120,8 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: easy
    - TODO Status: DONE
 
-** TODO 20. opencode-bin
+** FAILED 20. opencode-bin
    - Source List: /home/slime/.openclaw/workspace/todo_general_packages.org
-   - Status: Imported from external general queue file
+   - Status: Blocked: binary-only package path; no acceptable source-based Guix recipe completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: FAILED
