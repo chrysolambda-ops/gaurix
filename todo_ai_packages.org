@@ -14,13 +14,13 @@ Only includes well-known local AI/LLM projects from recognizable upstreams; excl
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 02. llama.cpp-vulkan
+** FAILED 02. llama.cpp-vulkan
    - Popularity: 3.170961 (20 votes)
    - AUR: https://aur.archlinux.org/packages/llama.cpp-vulkan
    - Notes: Port of Facebook's LLaMA model in C/C++ (with Vulkan GPU optimizations)
-   - Status: Not found in Guix or nonguix (name-based check)
+   - Status: FAILED after repeated build iterations: package compiles for several minutes but remains non-progressing for this run; deferred due excessive build/runtime cost in current environment
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: FAILED
 
 ** TODO 03. open-webui
    - Popularity: 3.011818 (26 votes)
