@@ -12,11 +12,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: FAILED
 
-** TODO 02. paru
+** FAILED 02. paru
    - Source List: /home/slime/.openclaw/workspace/todo_general_packages.org
-   - Status: Imported from external general queue file
+   - Status: Blocked: Arch AUR helper tightly coupled to pacman/libalpm; not meaningful for Guix packaging channel.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: FAILED
 
 ** TODO 03. visual-studio-code-bin
    - Source List: /home/slime/.openclaw/workspace/todo_general_packages.org
