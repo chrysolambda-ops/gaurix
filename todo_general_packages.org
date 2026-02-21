@@ -72,11 +72,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: FAILED
 
-** TODO 12. octopi
+** FAILED 12. octopi
    - Source List: /home/slime/.openclaw/workspace/todo_general_packages.org
-   - Status: Imported from external general queue file
+   - Status: Blocked: pacman frontend application; Arch-specific package-management UI not meaningful in Guix context.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: FAILED
 
 ** TODO 13. qt-sudo
    - Source List: /home/slime/.openclaw/workspace/todo_general_packages.org
