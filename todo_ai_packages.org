@@ -22,13 +22,13 @@ Only includes well-known local AI/LLM projects from recognizable upstreams; excl
    - Difficulty: medium
    - TODO Status: FAILED
 
-** TODO 03. open-webui
+** FAILED 03. open-webui
    - Popularity: 3.011818 (26 votes)
    - AUR: https://aur.archlinux.org/packages/open-webui
    - Notes: Web UI and OpenAI API for various LLM runners, including Ollama
-   - Status: Not found in Guix or nonguix (name-based check)
+   - Status: Blocked: AUR package depends on large Node/Python web stack and runtime services not yet packaged in this channel; would require substantial dependency bootstrap
    - Difficulty: hard
-   - TODO Status: TODO
+   - TODO Status: FAILED
 
 ** TODO 04. ollama-bin
    - Popularity: 2.681228 (6 votes)
