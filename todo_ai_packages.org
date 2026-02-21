@@ -110,10 +110,10 @@ Only includes well-known local AI/LLM projects from recognizable upstreams; excl
    - Difficulty: hard
    - TODO Status: FAILED
 
-** TODO 14. stable-diffusion-webui-git
+** FAILED 14. stable-diffusion-webui-git
    - Popularity: 0.028472 (9 votes)
    - AUR: https://aur.archlinux.org/packages/stable-diffusion-webui-git
    - Notes: Stable Diffusion Web UI (AUTOMATIC1111)
-   - Status: Not found in Guix or nonguix (name-based check)
+   - Status: Blocked: large Python/JS ecosystem with GPU-accelerated dependency chain not feasible to complete reproducibly in this queue-drain pass
    - Difficulty: hard
-   - TODO Status: TODO
+   - TODO Status: FAILED
