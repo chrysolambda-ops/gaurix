@@ -90,11 +90,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: FAILED
 
-** TODO 15. yay-bin
+** FAILED 15. yay-bin
    - Source List: /home/slime/.openclaw/workspace/todo_general_packages.org
-   - Status: Imported from external general queue file
+   - Status: Blocked: Arch AUR helper binary package; tightly coupled to pacman/libalpm ecosystem.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: FAILED
 
 ** TODO 16. heroic-games-launcher-bin
    - Source List: /home/slime/.openclaw/workspace/todo_general_packages.org
