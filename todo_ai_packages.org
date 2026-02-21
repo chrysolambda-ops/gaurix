@@ -94,13 +94,13 @@ Only includes well-known local AI/LLM projects from recognizable upstreams; excl
    - Difficulty: medium
    - TODO Status: FAILED
 
-** TODO 12. gpt4all-chat-git
+** FAILED 12. gpt4all-chat-git
    - Popularity: 0.425211 (13 votes)
    - AUR: https://aur.archlinux.org/packages/gpt4all-chat-git
    - Notes: Cross platform Qt based GUI for GPT4All versions
-   - Status: Not found in Guix or nonguix (name-based check)
+   - Status: Blocked: Qt GUI + model/runtime stack from VCS head introduces large moving dependency surface; not completed in this pass
    - Difficulty: hard
-   - TODO Status: TODO
+   - TODO Status: FAILED
 
 ** TODO 13. python-vllm
    - Popularity: 0.038314 (2 votes)
