@@ -2531,3 +2531,603 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Status: TODO: cache-ranked candidate (pop 1.94, votes 41); not present in Guix/nonguix/repo queues at selection time.
    - Difficulty: medium
    - TODO Status: TODO
+
+** TODO 422. czkawka-gui
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.94, votes 41); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 423. czkawka-cli
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.94, votes 41); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 424. inputactions-kwin
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.94, votes 5); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 425. waterfox
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.93, votes 20); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 426. waypaper
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.93, votes 26); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 427. valent-git
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.93, votes 6); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 428. perl-cpan-uploader
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.92, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 429. backintime-cli
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.77, votes 304); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 430. backintime
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.77, votes 304); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 431. timeshift-autosnap
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.87, votes 75); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 432. kernel-install-for-dracut
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.90, votes 13); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 433. catppuccin-cursors-mocha
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.90, votes 16); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 434. claude-cowork-service
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.90, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 435. wechat-universal-bwrap
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.83, votes 139); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 436. mesen
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.90, votes 3); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 437. appmanager
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.90, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 438. xdg-terminal-exec
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.89, votes 16); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 439. android-apktool
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.77, votes 254); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 440. pipes.sh
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.87, votes 46); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 441. howdy-git
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.88, votes 7); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 442. wl-screenrec
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.87, votes 17); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 443. r2modman
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.88, votes 5); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 444. arduino-ctags
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.86, votes 7); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 445. snapd
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.73, votes 228); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 446. tooi-git
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.84, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 447. pacseek
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.81, votes 48); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 448. witr
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.84, votes 4); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 449. oscar
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.81, votes 7); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 450. yt-dlp-git
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.79, votes 54); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 451. ashell
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.81, votes 10); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 452. pear-desktop
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.80, votes 15); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 453. ironbar-git
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.79, votes 14); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 454. openbao
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.79, votes 9); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 455. yandex-disk
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.72, votes 139); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 456. libsodium-1.0.18
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.79, votes 11); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 457. epson-inkjet-printer-escpr2
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.75, votes 54); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 458. xrizer-git
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.77, votes 7); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 459. xrizer-common-git
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.77, votes 7); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 460. lib32-xrizer-git
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.77, votes 7); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 461. bfg
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.73, votes 85); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 462. r47
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.77, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 463. c47
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.77, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 464. code-marketplace
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.71, votes 125); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 465. packettracer
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.69, votes 155); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 466. wechat
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.74, votes 50); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 467. drawy
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.77, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 468. dosr
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.76, votes 15); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 469. html2markdown
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.76, votes 4); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 470. mesa-git
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.66, votes 194); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 471. zfs-utils
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.72, votes 79); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 472. ryzen_smu-dkms-git
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.75, votes 18); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 473. mozc
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.71, votes 84); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 474. github-copilot-cli
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.75, votes 7); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 475. nettui
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.73, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 476. irfanview
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.73, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 477. fw16-kbd-uleds-git
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.73, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 478. aseprite
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.66, votes 140); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 479. pgadmin4-desktop-native
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.73, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 480. stoat-desktop-git
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.72, votes 10); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 481. rustconn
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.73, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 482. vencord-installer
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.72, votes 10); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 483. pcloud-drive
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.68, votes 92); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 484. home-assistant
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.71, votes 7); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 485. music-assistant-desktop
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.71, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 486. xrizer-common
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.71, votes 4); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 487. xrizer
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.71, votes 4); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 488. lib32-xrizer
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.71, votes 4); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 489. scrap-git
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.71, votes 3); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 490. proxmox-backup-client
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.69, votes 28); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 491. cemu
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.68, votes 44); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 492. nullfsvfs-dkms
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.70, votes 3); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 493. neovim-symlinks
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.68, votes 45); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 494. bitwig-studio
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.64, votes 127); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 495. wluma
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.69, votes 19); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 496. video2x-git
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.69, votes 3); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 497. lib32-libappindicator-gtk2
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.68, votes 7); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 498. google-earth-pro
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.14, votes 1086); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 499. elephant-websearch
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.68, votes 3); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 500. elephant-todo
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.68, votes 3); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 501. elephant-symbols
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.68, votes 3); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 502. elephant-runner
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.68, votes 3); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 503. elephant-providerlist
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.68, votes 3); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 504. elephant-files
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.68, votes 3); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 505. elephant-calc
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.68, votes 3); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 506. freefilesync
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.68, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 507. pi-coding-agent
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.68, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 508. qt6ct-kde
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.66, votes 36); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 509. clion-lldb
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.55, votes 239); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 510. clion-jre
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.55, votes 239); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 511. clion-gdb
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.55, votes 239); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 512. clion-cmake
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.55, votes 239); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 513. pandora-launcher
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.67, votes 3); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 514. limine-snapper-sync
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.66, votes 6); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 515. gogcli
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.66, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 516. caffeine-ng
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.59, votes 130); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 517. byedpi
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.65, votes 14); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 518. c++utilities
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.62, votes 71); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 519. steamcmd
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.58, votes 148); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 520. yaak
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.65, votes 4); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 521. sublime-text-4
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.60, votes 91); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
