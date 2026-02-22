@@ -726,3 +726,8 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: FAILED
 
+** DONE 121. fluxer-bin
+   - Source List: direct user request
+   - Status: Packaged in Gaurix and build-tested with `guix build -L guix fluxer-bin`
+   - Difficulty: medium
+   - TODO Status: DONE
