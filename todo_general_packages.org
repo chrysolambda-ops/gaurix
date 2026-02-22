@@ -4931,3 +4931,603 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Status: TODO: cache-ranked candidate (pop 0.89, votes 350); not present in Guix/nonguix/repo queues at selection time.
    - Difficulty: medium
    - TODO Status: TODO
+
+** TODO 822. ibus-bamboo
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.04, votes 37); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 823. xlibre-video-amdgpu
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.06, votes 11); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 824. libplasma-git
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 14); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 825. neoleo
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.06, votes 9); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 826. dunelegacy
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.04, votes 29); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 827. ymir-emu
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 4); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 828. vvenc
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 7); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 829. grub-theme-zorin-os
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 830. grub-theme-xero-linux
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 831. grub-theme-windows-11
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 832. grub-theme-windows-10
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 833. grub-theme-void-linux
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 834. grub-theme-ventoy
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 835. grub-theme-vanilla-os
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 836. grub-theme-vaio
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 837. grub-theme-ultramarine
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 838. grub-theme-ubuntu-mate
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 839. grub-theme-ubuntu
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 840. grub-theme-toshiba
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 841. grub-theme-thinkpad
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 842. grub-theme-system76
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 843. grub-theme-supermicro
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 844. grub-theme-solus
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 845. grub-theme-slackware
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 846. grub-theme-samsung
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 847. grub-theme-rocky-linux
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 848. grub-theme-razer
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 849. grub-theme-proxmox
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 850. grub-theme-pop-os
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 851. grub-theme-parabola
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 852. grub-theme-opensuse
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 853. grub-theme-nobara
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 854. grub-theme-nixos
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 855. grub-theme-mx-linux
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 856. grub-theme-msi
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 857. grub-theme-medion
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 858. grub-theme-manjaro
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 859. grub-theme-lubuntu
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 860. grub-theme-linux-mint
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 861. grub-theme-linux-lite
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 862. grub-theme-lg
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 863. grub-theme-lenovo
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 864. grub-theme-legion
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 865. grub-theme-kubuntu
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 866. grub-theme-kingston
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 867. grub-theme-kde-neon
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 868. grub-theme-huawei
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 869. grub-theme-hp-victus
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 870. grub-theme-hp-omen
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 871. grub-theme-hp
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 872. grub-theme-gigabyte
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 873. grub-theme-gentoo
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 874. grub-theme-garuda
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 875. grub-theme-fujitsu
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 876. grub-theme-freebsd
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 877. grub-theme-framework
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 878. grub-theme-fedora
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 879. grub-theme-endeavouros
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 880. grub-theme-elementaryos
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 881. grub-theme-dell
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 882. grub-theme-deepin
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 883. grub-theme-debian
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 884. grub-theme-chromeos
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 885. grub-theme-centos
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 886. grub-theme-bedrock-linux
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 887. grub-theme-asus-tuf
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 888. grub-theme-asus-rog
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 889. grub-theme-asus
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 890. grub-theme-asrock
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 891. grub-theme-artix-linux
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 892. grub-theme-arco-linux
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 893. grub-theme-archcraft
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 894. grub-theme-arch-linux
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 895. grub-theme-apple
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 896. grub-theme-aorus
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 897. grub-theme-almalinux
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 898. grub-theme-acer
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 899. iscan
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 9); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 900. flyctl
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 5); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 901. plex-media-server-plexpass
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 0.98, votes 142); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 902. nekobox-core
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 4); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 903. nekobox
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 4); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 904. iscan-data
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.05, votes 5); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 905. cnrdrvcups-lb
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.03, votes 38); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 906. kega-fusion
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.00, votes 98); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 907. yubico-authenticator
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.04, votes 14); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 908. samsung-unified-driver-scanner
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 0.93, votes 228); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 909. samsung-unified-driver-printer
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 0.93, votes 228); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 910. samsung-unified-driver-common
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 0.93, votes 228); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 911. samsung-unified-driver
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 0.93, votes 228); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 912. mistral-vibe
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.04, votes 3); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 913. qutebrowser-git
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.00, votes 92); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 914. networkmanager-fortisslvpn
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.04, votes 15); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 915. mtkclient
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.04, votes 6); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 916. qlog-git
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.04, votes 4); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 917. cfspeedtest
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.04, votes 3); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 918. python-steam
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.02, votes 37); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 919. par
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.01, votes 47); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 920. brisk
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.03, votes 5); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 921. whitesur-icon-theme
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked candidate (pop 1.02, votes 9); not present in Guix/nonguix/repo queues at selection time.
+   - Difficulty: medium
+   - TODO Status: TODO
