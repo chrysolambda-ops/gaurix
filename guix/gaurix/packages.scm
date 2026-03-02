@@ -10,5 +10,7 @@
   #:use-module (gaurix packages sunshine-bin)
   #:use-module (gaurix packages fluxer-bin)
   #:use-module (gaurix packages comfyui-cuda)
+  #:use-module (gaurix packages general-compat)
   #:export (hello-gaurix localsend-bin aider-chat lmstudio-bin
-            llama-cpp-cuda visual-studio-code-bin sunshine sunshine-bin fluxer-bin comfyui-cuda))
+            llama-cpp-cuda visual-studio-code-bin sunshine sunshine-bin fluxer-bin comfyui-cuda
+            gtk2 gnu-netcat qt5-webengine python312 openssl-1.1))

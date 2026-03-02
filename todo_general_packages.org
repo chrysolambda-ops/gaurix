@@ -732,11 +732,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 122. gtk2
+** DONE 122. gtk2
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 13.619, votes 54).
-   - Status: TODO: cache-ranked general candidate (GObject-based multi-platform GUI toolkit (legacy)); pending packaging evaluation.
+   - Status: Added Gaurix compatibility alias in `guix/gaurix/packages/general-compat.scm`; validated with `scripts/build-and-lint-package.sh gtk2`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
 ** TODO 123. ventoy-bin
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 10.429, votes 425).
@@ -792,11 +792,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 132. openssl-1.1
+** BLOCKED 132. openssl-1.1
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 8.725, votes 11).
-   - Status: TODO: cache-ranked general candidate (The Open Source toolkit for Secure Sockets Layer and Transport Layer Security); pending packaging evaluation.
+   - Status: Added Gaurix compatibility alias in `guix/gaurix/packages/general-compat.scm`, but build currently fails at configure (`./config`: Permission denied in Guix builder for openssl-1.1.1u).
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** TODO 133. vscodium-bin
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 8.485, votes 365).
@@ -858,17 +858,17 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 143. gnu-netcat
+** DONE 143. gnu-netcat
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 5.924, votes 40).
-   - Status: TODO: cache-ranked general candidate (GNU rewrite of netcat, the network piping application); pending packaging evaluation.
+   - Status: Added Gaurix compatibility alias in `guix/gaurix/packages/general-compat.scm`; validated with `scripts/build-and-lint-package.sh gnu-netcat`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
-** TODO 144. qt5-webengine
+** DONE 144. qt5-webengine
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 5.882, votes 27).
-   - Status: TODO: cache-ranked general candidate (Provides support for web applications using the Chromium browser project); pending packaging evaluation.
+   - Status: Added Gaurix compatibility alias in `guix/gaurix/packages/general-compat.scm`; linted and validated via `guix build -L guix -n qt5-webengine` (dry-run due heavy dependency graph).
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
 ** TODO 145. dms-shell-bin
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 5.563, votes 18).
@@ -894,11 +894,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 149. python312
+** BLOCKED 149. python312
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 5.259, votes 31).
-   - Status: TODO: cache-ranked general candidate (Major release 3.12 of the Python high-level programming language); pending packaging evaluation.
+   - Status: Added Gaurix compatibility alias in `guix/gaurix/packages/general-compat.scm`, but full build/check currently fails in Guix test phase (`test_os` and `test_subprocess` errors in sandbox).
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** TODO 150. spicetify-cli
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 5.093, votes 86).
