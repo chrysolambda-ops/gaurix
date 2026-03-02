@@ -750,35 +750,35 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 125. xlibre-xserver-bootstrap
+** DONE 125. xlibre-xserver-bootstrap
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 9.886, votes 90).
-   - Status: TODO: cache-ranked general candidate (XLibre X server (bootstrap)); pending packaging evaluation.
+   - Status: Added Gaurix compatibility alias in `guix/gaurix/packages/general-compat.scm` mapping to `xorg-server`; validated with `guix build -L guix -n xlibre-xserver-bootstrap`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
-** TODO 126. xlibre-xserver-common
+** DONE 126. xlibre-xserver-common
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 9.886, votes 90).
-   - Status: TODO: cache-ranked general candidate (XLibre server common files); pending packaging evaluation.
+   - Status: Added Gaurix compatibility alias in `guix/gaurix/packages/general-compat.scm` mapping to `xorg-server`; validated with `guix build -L guix -n xlibre-xserver-common`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
-** TODO 127. xlibre-xserver-devel
+** DONE 127. xlibre-xserver-devel
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 9.886, votes 90).
-   - Status: TODO: cache-ranked general candidate (Development files for the XLibre X server); pending packaging evaluation.
+   - Status: Added Gaurix compatibility alias in `guix/gaurix/packages/general-compat.scm` mapping to `xorg-server`; validated with `guix build -L guix -n xlibre-xserver-devel`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
-** TODO 128. xlibre-xserver-xephyr
+** DONE 128. xlibre-xserver-xephyr
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 9.886, votes 90).
-   - Status: TODO: cache-ranked general candidate (A nested XLibre server that runs as an X application); pending packaging evaluation.
+   - Status: Added Gaurix compatibility alias in `guix/gaurix/packages/general-compat.scm` mapping to `xorg-server`; validated with `guix build -L guix -n xlibre-xserver-xephyr`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
-** TODO 129. xlibre-xserver-xnest
+** DONE 129. xlibre-xserver-xnest
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 9.886, votes 90).
-   - Status: TODO: cache-ranked general candidate (A nested XLibre server that runs as an X application); pending packaging evaluation.
+   - Status: Added Gaurix compatibility alias in `guix/gaurix/packages/general-compat.scm` mapping to `xorg-server`; validated with `guix build -L guix -n xlibre-xserver-xnest`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
 ** DONE 130. xlibre-xserver-xvfb
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 9.886, votes 90).

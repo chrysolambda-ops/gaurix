@@ -13,10 +13,18 @@
   #:use-module (gnu packages haskell-apps)
   #:use-module (gnu packages xorg)
   #:use-module ((gnu packages tls) #:prefix gnu:)
+  #:use-module (gnu packages crypto)
+  #:use-module (gnu packages gnome)
+  #:use-module (gnu packages image)
   #:export (gtk2 gnu-netcat qt5-webengine python312 openssl-1.1
             yt-dlp-git ripgrep-git fd-git eza-git zoxide-git shellcheck-bin
-            xlibre-xserver xlibre-xserver-xvfb qt5-remoteobjects qt5-webchannel qt5-websockets
-            dashbinsh libidn11 ncurses5-compat-libs neovim-symlinks neovim-git lib32-libidn11))
+            xlibre-xserver xlibre-xserver-bootstrap xlibre-xserver-xnest xlibre-xserver-xephyr xlibre-xserver-devel xlibre-xserver-common xlibre-xserver-xvfb qt5-remoteobjects qt5-webchannel qt5-websockets
+            dashbinsh libidn11 ncurses5-compat-libs neovim-symlinks neovim-git lib32-libidn11
+            gtk-engine-murrine
+            python313
+            botan2
+            piper-tts
+            libjpeg6-turbo))
 
 (define-public gtk2
   (package
@@ -80,6 +88,31 @@
     (inherit xorg-server)
     (name "xlibre-xserver")))
 
+(define-public xlibre-xserver-bootstrap
+  (package
+    (inherit xorg-server)
+    (name "xlibre-xserver-bootstrap")))
+
+(define-public xlibre-xserver-common
+  (package
+    (inherit xorg-server)
+    (name "xlibre-xserver-common")))
+
+(define-public xlibre-xserver-devel
+  (package
+    (inherit xorg-server)
+    (name "xlibre-xserver-devel")))
+
+(define-public xlibre-xserver-xephyr
+  (package
+    (inherit xorg-server)
+    (name "xlibre-xserver-xephyr")))
+
+(define-public xlibre-xserver-xnest
+  (package
+    (inherit xorg-server)
+    (name "xlibre-xserver-xnest")))
+
 (define-public xlibre-xserver-xvfb
   (package
     (inherit xorg-server)
@@ -129,3 +162,29 @@
   (package
     (inherit libidn11)
     (name "lib32-libidn11")))
+
+(define-public gtk-engine-murrine
+  (package
+    (inherit murrine)
+    (name "gtk-engine-murrine")))
+
+(define-public botan2
+  (package
+    (inherit botan)
+    (name "botan2")))
+
+(define-public piper-tts
+  (package
+    (inherit piper)
+    (name "piper-tts")))
+
+(define-public libjpeg6-turbo
+  (package
+    (inherit libjpeg-turbo)
+    (name "libjpeg6-turbo")))
+
+(define-public python313
+  (package
+    (inherit python-next)
+    (name "python313")))
+
