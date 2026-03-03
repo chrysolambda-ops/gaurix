@@ -21,6 +21,7 @@
   #:use-module ((gnu packages tls) #:prefix gnu:)
   #:use-module (gnu packages crypto)
   #:use-module (gnu packages gnome)
+  #:use-module (gnu packages fonts)
   #:use-module (gnu packages image)
   #:use-module (gnu packages backup)
   #:use-module (gnu packages file-systems)
@@ -107,6 +108,11 @@
             libdbusmenu-gtk2
             lib32-libjpeg6-turbo
             lib32-openssl-1.1
+            librsvg-noglycin-docs
+            librsvg-noglycin
+            qt6-avif-image-plugin
+            woff2-space-grotesk
+            woff-space-grotesk
             ))
 
 (define-public gtk2
@@ -553,3 +559,28 @@
   (package
     (inherit openssl-1.1)
     (name "lib32-openssl-1.1")))
+
+(define-public librsvg-noglycin-docs
+  (package
+    (inherit librsvg)
+    (name "librsvg-noglycin-docs")))
+
+(define-public librsvg-noglycin
+  (package
+    (inherit librsvg)
+    (name "librsvg-noglycin")))
+
+(define-public qt6-avif-image-plugin
+  (package
+    (inherit qtimageformats)
+    (name "qt6-avif-image-plugin")))
+
+(define-public woff2-space-grotesk
+  (package
+    (inherit font-space-grotesk)
+    (name "woff2-space-grotesk")))
+
+(define-public woff-space-grotesk
+  (package
+    (inherit font-space-grotesk)
+    (name "woff-space-grotesk")))

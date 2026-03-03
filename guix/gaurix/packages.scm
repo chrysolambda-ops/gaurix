@@ -67,4 +67,10 @@
             cava-git
             onedrive-abraunegg i2p fluxer-git
             arc-solid-gtk-theme arc-gtk-theme libindicator-gtk2
-            libdbusmenu-gtk2 lib32-libjpeg6-turbo lib32-openssl-1.1))
+            libdbusmenu-gtk2 lib32-libjpeg6-turbo lib32-openssl-1.1
+            librsvg-noglycin-docs
+            librsvg-noglycin
+            qt6-avif-image-plugin
+            woff2-space-grotesk
+            woff-space-grotesk
+            ))

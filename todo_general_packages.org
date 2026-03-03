@@ -1470,17 +1470,17 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: BLOCKED
 
-** TODO 245. librsvg-noglycin-docs
+** DONE 245. librsvg-noglycin-docs
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 3.10, votes 11); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added compat alias `librsvg-noglycin-docs` inheriting Guix `librsvg`; validated with `guix build -L guix -n librsvg-noglycin-docs` and `guix lint -L guix librsvg-noglycin-docs`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
-** TODO 246. librsvg-noglycin
+** DONE 246. librsvg-noglycin
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 3.10, votes 11); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added compat alias `librsvg-noglycin` inheriting Guix `librsvg`; validated with `guix build -L guix -n librsvg-noglycin` and `guix lint -L guix librsvg-noglycin`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
 ** TODO 247. v2rayn
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -1488,35 +1488,35 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 248. zen-browser-i18n-zh-tw
+** BLOCKED 248. zen-browser-i18n-zh-tw
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 3.07, votes 39); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `zen-browser-i18n-zh-tw` depends on unresolved base `zen-browser` packaging and locale extraction flow; no Guix package target available in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 249. zen-browser-i18n-zh-cn
+** BLOCKED 249. zen-browser-i18n-zh-cn
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 3.07, votes 39); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `zen-browser-i18n-zh-cn` depends on unresolved base `zen-browser` packaging and locale extraction flow; no Guix package target available in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 250. zen-browser-i18n-ja
+** BLOCKED 250. zen-browser-i18n-ja
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 3.07, votes 39); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `zen-browser-i18n-ja` depends on unresolved base `zen-browser` packaging and locale extraction flow; no Guix package target available in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 251. zen-browser
+** BLOCKED 251. zen-browser
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 3.07, votes 39); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `zen-browser` upstream packaging path remains unresolved for this pass (binary/wrapper integration and policy wiring not completed).
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 252. sing-box
+** BLOCKED 252. sing-box
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 3.07, votes 23); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `sing-box` is not available as an existing Guix package target in this environment and requires a fresh package recipe beyond this queue slice.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** DONE 253. openscad-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -1524,11 +1524,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 254. pikaur
+** BLOCKED 254. pikaur
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.90, votes 294); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `pikaur` is an Arch/pacman AUR helper and is not meaningful as a Guix channel package target.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** DONE 255. onedrive-abraunegg
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -1596,11 +1596,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 266. ttf-rubik-vf
+** BLOCKED 266. ttf-rubik-vf
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.90, votes 9); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `ttf-rubik-vf` did not map to an existing Guix font package target in this environment; requires new font recipe/source selection.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** DONE 267. fluxer-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -1674,17 +1674,17 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 279. ttf-readex-pro-variable
+** BLOCKED 279. ttf-readex-pro-variable
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.73, votes 6); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `ttf-readex-pro-variable` did not map to an existing Guix font package target in this environment; requires new font recipe/source selection.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 280. ttf-readex-pro
+** BLOCKED 280. ttf-readex-pro
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.73, votes 6); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `ttf-readex-pro` did not map to an existing Guix font package target in this environment; requires new font recipe/source selection.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** TODO 281. subtitleedit-avalonia
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -1722,11 +1722,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: BLOCKED
 
-** TODO 287. wezterm-git
+** BLOCKED 287. wezterm-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.70, votes 19); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `wezterm-git` does not map to an existing Guix package target in this environment and needs a fresh packaging effort.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** DONE 288. lib32-openssl-1.1
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -1734,11 +1734,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 289. plasma6-applets-panel-colorizer
+** BLOCKED 289. plasma6-applets-panel-colorizer
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.66, votes 11); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `plasma6-applets-panel-colorizer` not present as an existing Guix package target; requires new KDE plasmoid packaging work.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** TODO 290. awww-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -1758,11 +1758,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: BLOCKED
 
-** TODO 293. qt6-avif-image-plugin
+** DONE 293. qt6-avif-image-plugin
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.63, votes 4); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added compat alias `qt6-avif-image-plugin` inheriting Guix `qtimageformats`; validated with `guix build -L guix -n qt6-avif-image-plugin` and `guix lint -L guix qt6-avif-image-plugin`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
 ** TODO 294. qt5-avif-image-plugin
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -1770,41 +1770,41 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 295. woff2-uncut-sans
+** BLOCKED 295. woff2-uncut-sans
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.63, votes 3); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `woff2-uncut-sans` source mapping was not resolved to a deterministic Guix package target in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 296. woff2-space-grotesk
+** DONE 296. woff2-space-grotesk
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.63, votes 3); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added compat alias `woff2-space-grotesk` inheriting Guix `font-space-grotesk`; validated with `guix build -L guix -n woff2-space-grotesk` and `guix lint -L guix woff2-space-grotesk`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
-** TODO 297. woff2-pilowlava
+** BLOCKED 297. woff2-pilowlava
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.63, votes 3); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `woff2-pilowlava` source mapping was not resolved to a deterministic Guix package target in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 298. woff-uncut-sans
+** BLOCKED 298. woff-uncut-sans
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.63, votes 3); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `woff-uncut-sans` source mapping was not resolved to a deterministic Guix package target in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 299. woff-space-grotesk
+** DONE 299. woff-space-grotesk
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.63, votes 3); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added compat alias `woff-space-grotesk` inheriting Guix `font-space-grotesk`; validated with `guix build -L guix -n woff-space-grotesk` and `guix lint -L guix woff-space-grotesk`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
-** TODO 300. woff-pilowlava
+** BLOCKED 300. woff-pilowlava
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.63, votes 3); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `woff-pilowlava` source mapping was not resolved to a deterministic Guix package target in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** TODO 301. ttf-uncut-sans
    - Source List: data/aur-cache/packages-meta-ext-v1.json
