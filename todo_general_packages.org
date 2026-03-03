@@ -738,11 +738,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 123. ventoy-bin
+** BLOCKED 123. ventoy-bin
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 10.429, votes 425).
-   - Status: TODO: cache-ranked general candidate (A new bootable USB solution); pending packaging evaluation.
+   - Status: Blocked: binary-focused distribution tooling; Guix-native, reproducible packaging not completed safely in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** DONE 124. xlibre-xserver
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 9.886, votes 90).
@@ -786,11 +786,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 131. vesktop-bin
+** BLOCKED 131. vesktop-bin
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 9.463, votes 141).
-   - Status: TODO: cache-ranked general candidate (A cross platform electron-based desktop app aiming to give you a snappier Discord experience with Vencord pre-installed.(Prebuilt version.Use system-wide electron)); pending packaging evaluation.
+   - Status: Blocked: prebuilt Electron binary package; requires nontrivial wrapper/hardening work not completed safely in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** BLOCKED 132. openssl-1.1
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 8.725, votes 11).
@@ -798,17 +798,17 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: BLOCKED
 
-** TODO 133. vscodium-bin
+** BLOCKED 133. vscodium-bin
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 8.485, votes 365).
-   - Status: TODO: cache-ranked general candidate (Binary releases of VS Code without MS branding/telemetry/licensing.); pending packaging evaluation.
+   - Status: Blocked: binary-repack variant; prefer source-based vscodium packaging path, not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 134. zoom
+** BLOCKED 134. zoom
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 7.840, votes 719).
-   - Status: TODO: cache-ranked general candidate (Video Conferencing and Web Conferencing Service); pending packaging evaluation.
+   - Status: Blocked: proprietary prebuilt client with complex runtime patching; safe/reproducible Guix recipe not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** TODO 135. vesktop
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 7.582, votes 81).
@@ -816,17 +816,17 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 136. jellyfin-desktop
+** BLOCKED 136. jellyfin-desktop
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 7.447, votes 104).
-   - Status: TODO: cache-ranked general candidate (Jellyfin Desktop Client); pending packaging evaluation.
+   - Status: Blocked: Electron desktop client packaging would require full source/Electron dependency graph work beyond this queue slice.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 137. proton-ge-custom-bin
+** BLOCKED 137. proton-ge-custom-bin
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 7.249, votes 268).
-   - Status: TODO: cache-ranked general candidate (A fancy custom distribution of Valves Proton with various patches); pending packaging evaluation.
+   - Status: Blocked: binary Proton distribution; reproducible source-based packaging path not completed safely in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** TODO 138. arch-update
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 7.135, votes 40).
@@ -834,11 +834,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 139. noctalia-shell
+** BLOCKED 139. noctalia-shell
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 6.543, votes 23).
-   - Status: TODO: cache-ranked general candidate (A sleek and minimal desktop shell thoughtfully crafted for Wayland, built with Quickshell.); pending packaging evaluation.
+   - Status: Blocked: upstream stack (Quickshell-based shell) needs deeper dependency packaging not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** TODO 140. claude-code
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 6.462, votes 35).
@@ -852,11 +852,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 142. cursor-bin
+** BLOCKED 142. cursor-bin
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 6.047, votes 74).
-   - Status: TODO: cache-ranked general candidate (AI-first coding environment); pending packaging evaluation.
+   - Status: Blocked: proprietary binary IDE package; Guix-native packaging path not completed safely in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** DONE 143. gnu-netcat
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 5.924, votes 40).
@@ -870,17 +870,17 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 145. dms-shell-bin
+** BLOCKED 145. dms-shell-bin
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 5.563, votes 18).
-   - Status: TODO: cache-ranked general candidate (Desktop shell for wayland compositors built with Quickshell & GO); pending packaging evaluation.
+   - Status: Blocked: prebuilt shell binary package; reproducible source packaging not completed safely in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 146. davinci-resolve
+** BLOCKED 146. davinci-resolve
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 5.533, votes 177).
-   - Status: TODO: cache-ranked general candidate (Professional A/V post-production software suite from Blackmagic Design); pending packaging evaluation.
+   - Status: Blocked: proprietary installer/runtime with nonfree redistribution constraints; safe Guix packaging not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** TODO 147. voxtype
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 5.502, votes 9).
@@ -888,11 +888,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 148. traur-bin
+** BLOCKED 148. traur-bin
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 5.284, votes 6).
-   - Status: TODO: cache-ranked general candidate (Trust scoring for AUR packages (prebuilt)); pending packaging evaluation.
+   - Status: Blocked: prebuilt variant; prioritized source package (`traur`) instead, not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** BLOCKED 149. python312
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 5.259, votes 31).
@@ -912,11 +912,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 152. mullvad-vpn-bin
+** BLOCKED 152. mullvad-vpn-bin
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 5.008, votes 155).
-   - Status: TODO: cache-ranked general candidate (The Mullvad VPN client app for desktop); pending packaging evaluation.
+   - Status: Blocked: binary desktop client repack path not completed with Guix-compatible wrapping/hardening in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** TODO 153. bottles
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 4.876, votes 180).
@@ -924,11 +924,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 154. max-bin
+** BLOCKED 154. max-bin
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 4.830, votes 17).
-   - Status: TODO: cache-ranked general candidate (MAX messenger.); pending packaging evaluation.
+   - Status: Blocked: binary-only messenger package; no source-based reproducible path completed safely in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** TODO 155. ttf-ms-fonts
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 4.767, votes 2167).
@@ -960,29 +960,29 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 160. steam-native-runtime
+** BLOCKED 160. steam-native-runtime
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 4.614, votes 20).
-   - Status: TODO: cache-ranked general candidate (Native replacement for the Steam runtime using system libraries); pending packaging evaluation.
+   - Status: Blocked: tightly coupled to Steam runtime/host integration; Guix-native compatibility work not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 161. unityhub
+** BLOCKED 161. unityhub
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 4.599, votes 104).
-   - Status: TODO: cache-ranked general candidate (The Unity Hub is a standalone application that streamlines the way you find, download, and manage your Unity Projects and installations.); pending packaging evaluation.
+   - Status: Blocked: proprietary hub binary with self-update behavior; reproducible Guix packaging not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 162. fresh-editor-bin
+** BLOCKED 162. fresh-editor-bin
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 4.597, votes 9).
-   - Status: TODO: cache-ranked general candidate (A lightweight, fast terminal-based text editor with LSP support and TypeScript plugins); pending packaging evaluation.
+   - Status: Blocked: prebuilt release variant; source-based packaging path not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 163. darkly-bin
+** BLOCKED 163. darkly-bin
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 4.592, votes 16).
-   - Status: TODO: cache-ranked general candidate (Fork of Lightly (A modern style for Qt applications)); pending packaging evaluation.
+   - Status: Blocked: prebuilt Qt style package; source packaging/wrapping not completed safely in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** TODO 164. wivrn-server
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 4.574, votes 47).
@@ -1002,11 +1002,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 167. happ-desktop-bin
+** BLOCKED 167. happ-desktop-bin
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 4.440, votes 8).
-   - Status: TODO: cache-ranked general candidate (Happ — user-friendly GUI client for xray-core with TUN/VPN and anti-censorship); pending packaging evaluation.
+   - Status: Blocked: prebuilt anti-censorship GUI client variant; source-based reproducible packaging not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** TODO 168. noorfetch
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 4.357, votes 5).
@@ -1038,11 +1038,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 173. unreal-engine-bin
+** BLOCKED 173. unreal-engine-bin
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 4.235, votes 48).
-   - Status: TODO: cache-ranked general candidate (The world's most open and advanced real-time 3D creation tool); pending packaging evaluation.
+   - Status: Blocked: proprietary prebuilt engine package with licensing/toolchain constraints; safe Guix recipe not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** TODO 174. jetbrains-toolbox
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 4.199, votes 195).
@@ -1056,11 +1056,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 176. throne-bin
+** BLOCKED 176. throne-bin
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 4.146, votes 18).
-   - Status: TODO: cache-ranked general candidate (Cross-platform GUI proxy utility (Empowered by sing-box)); pending packaging evaluation.
+   - Status: Blocked: prebuilt proxy utility; source/reproducible packaging not completed safely in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** DONE 177. qt5-remoteobjects
    - Source List: local cache `data/aur-cache/packages-meta-ext-v1.json` (popularity 4.125, votes 16).
