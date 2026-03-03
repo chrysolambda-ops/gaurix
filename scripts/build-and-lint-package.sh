@@ -13,6 +13,11 @@ PKG="$1"
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$ROOT"
 
+TMPDIR_DEFAULT="/var/tmp/guix-tmp"
+mkdir -p "$TMPDIR_DEFAULT"
+chmod 1777 "$TMPDIR_DEFAULT" 2>/dev/null || true
+export TMPDIR="${TMPDIR:-$TMPDIR_DEFAULT}"
+
 echo "[1/2] guix lint -L guix $PKG"
 # lint can produce warnings; keep output but do not fail hard on lint warning-only runs.
 if ! guix lint -L guix "$PKG"; then
