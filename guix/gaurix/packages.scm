@@ -64,4 +64,7 @@
             sd-git
             snitch-bin
             meshlab-bin
-            cava-git))
+            cava-git
+            onedrive-abraunegg i2p fluxer-git
+            arc-solid-gtk-theme arc-gtk-theme libindicator-gtk2
+            libdbusmenu-gtk2 lib32-libjpeg6-turbo lib32-openssl-1.1))

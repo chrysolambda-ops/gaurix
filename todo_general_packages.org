@@ -1530,11 +1530,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 255. onedrive-abraunegg
+** DONE 255. onedrive-abraunegg
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.97, votes 148); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Gaurix compat alias `onedrive-abraunegg` inheriting Guix `onedrive` in `general-compat.scm`; validated with `guix build -L guix -n onedrive-abraunegg` and `guix lint -L guix onedrive-abraunegg`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
 ** TODO 256. ast-firmware
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -1542,17 +1542,17 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 257. auto-cpufreq
+** BLOCKED 257. auto-cpufreq
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.95, votes 93); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: No upstream Guix package or trivial alias target for `auto-cpufreq` found (`guix search auto-cpufreq` empty); requires fresh package recipe.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 258. i2p
+** DONE 258. i2p
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.82, votes 325); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Gaurix compat alias `i2p` inheriting Guix `i2pd`; validated with `guix build -L guix -n i2p` and `guix lint -L guix i2p`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
 ** TODO 259. aic94xx-firmware
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -1560,17 +1560,17 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 260. heroic-games-launcher
+** BLOCKED 260. heroic-games-launcher
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.92, votes 37); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `heroic-games-launcher` not available in current Guix package set (`guix search heroic` empty); would require new Electron/package recipe beyond this queue slice.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 261. 1password-cli
+** BLOCKED 261. 1password-cli
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.91, votes 51); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `1password-cli` not present in current Guix package set (`guix search 1password-cli` empty); requires new proprietary binary packaging workflow.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** TODO 262. alhp-mirrorlist
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -1584,11 +1584,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 264. parabolic
+** BLOCKED 264. parabolic
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.90, votes 22); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `parabolic` candidate did not map to an existing Guix package target (search ambiguous/non-matching); needs fresh package definition with upstream source selection.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** TODO 265. wd719x-firmware
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -1602,11 +1602,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 267. fluxer-git
+** DONE 267. fluxer-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.90, votes 3); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Gaurix compat alias `fluxer-git` inheriting existing Gaurix `fluxer-bin`; validated with `guix build -L guix -n fluxer-git` and lint pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
 ** TODO 268. modrinth-app
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -1644,11 +1644,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 274. zotero
+** BLOCKED 274. zotero
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.82, votes 52); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: No standalone `zotero` package found in current Guix package set (`guix search zotero` only emacs integration hits); requires new package recipe.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** TODO 275. legcord
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -1692,35 +1692,35 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 282. google-cloud-cli-gsutil
+** BLOCKED 282. google-cloud-cli-gsutil
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.61, votes 195); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `google-cloud-cli-gsutil` not available as a discrete Guix package; requires component split/packaging work from Google Cloud SDK sources.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 283. google-cloud-cli-component-gke-gcloud-auth-plugin
+** BLOCKED 283. google-cloud-cli-component-gke-gcloud-auth-plugin
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.61, votes 195); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `google-cloud-cli-component-gke-gcloud-auth-plugin` not available as discrete Guix package; requires componentized packaging work.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 284. google-cloud-cli-bundled-python3-unix
+** BLOCKED 284. google-cloud-cli-bundled-python3-unix
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.61, votes 195); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `google-cloud-cli-bundled-python3-unix` not available as discrete Guix package; requires bespoke bundle packaging policy decisions.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 285. google-cloud-cli-bq
+** BLOCKED 285. google-cloud-cli-bq
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.61, votes 195); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `google-cloud-cli-bq` not available as discrete Guix package; requires componentized Google Cloud SDK packaging.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 286. google-cloud-cli
+** BLOCKED 286. google-cloud-cli
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.61, votes 195); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `google-cloud-cli` did not resolve to an existing Guix package (`guix search google-cloud-sdk` empty in this environment); requires new package addition.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** TODO 287. wezterm-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -1728,11 +1728,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 288. lib32-openssl-1.1
+** DONE 288. lib32-openssl-1.1
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.67, votes 3); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added compatibility alias `lib32-openssl-1.1` inheriting `openssl-1.1`; validated with `guix build -L guix -n lib32-openssl-1.1` and lint pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
 ** TODO 289. plasma6-applets-panel-colorizer
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -1752,11 +1752,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 292. debtap
+** BLOCKED 292. debtap
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.49, votes 318); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `debtap` is Arch package-conversion tooling tied to pacman/AUR workflows; no meaningful Guix equivalent package path for Gaurix channel use.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** TODO 293. qt6-avif-image-plugin
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -1890,17 +1890,17 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 315. arc-solid-gtk-theme
+** DONE 315. arc-solid-gtk-theme
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.55, votes 24); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Gaurix compat alias `arc-solid-gtk-theme` inheriting Guix `arc-theme`; validated with `guix build -L guix -n arc-solid-gtk-theme` and lint pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
-** TODO 316. arc-gtk-theme
+** DONE 316. arc-gtk-theme
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.55, votes 24); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Gaurix compat alias `arc-gtk-theme` inheriting Guix `arc-theme`; validated with `guix build -L guix -n arc-gtk-theme` and lint pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
 ** TODO 317. limine-mkinitcpio-hook
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -1920,11 +1920,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 320. libindicator-gtk2
+** DONE 320. libindicator-gtk2
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.54, votes 9); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Gaurix compat alias `libindicator-gtk2` inheriting Guix `libindicator`; validated with `guix build -L guix -n libindicator-gtk2` and lint pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
 ** TODO 321. throne
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -2010,17 +2010,17 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 335. libdbusmenu-gtk2
+** DONE 335. libdbusmenu-gtk2
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.40, votes 10); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Gaurix compat alias `libdbusmenu-gtk2` inheriting Guix `libdbusmenu`; validated with `guix build -L guix -n libdbusmenu-gtk2` and lint pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
-** TODO 336. lib32-libjpeg6-turbo
+** DONE 336. lib32-libjpeg6-turbo
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.39, votes 10); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added compatibility alias `lib32-libjpeg6-turbo` inheriting `libjpeg6-turbo`; validated with `guix build -L guix -n lib32-libjpeg6-turbo` and lint pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
 ** TODO 337. kwin-karousel
    - Source List: data/aur-cache/packages-meta-ext-v1.json

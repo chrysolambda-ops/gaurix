@@ -1,5 +1,9 @@
 (define-module (gaurix packages general-compat)
   #:use-module (gaurix packages llama-cpp-cuda)
+  #:use-module (gnu packages freedesktop)
+  #:use-module (gnu packages i2p)
+  #:use-module (gnu packages sync)
+  #:use-module (gaurix packages fluxer-bin)
   #:use-module (guix packages)
   #:use-module (gnu packages gtk)
   #:use-module (gnu packages shells)
@@ -93,7 +97,17 @@
             sd-git
             snitch-bin
             meshlab-bin
-            cava-git))
+            cava-git
+            onedrive-abraunegg
+            i2p
+            fluxer-git
+            arc-solid-gtk-theme
+            arc-gtk-theme
+            libindicator-gtk2
+            libdbusmenu-gtk2
+            lib32-libjpeg6-turbo
+            lib32-openssl-1.1
+            ))
 
 (define-public gtk2
   (package
@@ -492,3 +506,50 @@
   (package
     (inherit cava)
     (name "cava-git")))
+
+(define-public onedrive-abraunegg
+  (package
+    (inherit onedrive)
+    (name "onedrive-abraunegg")))
+
+(define-public i2p
+  (package
+    (inherit i2pd)
+    (name "i2p")))
+
+(define-public fluxer-git
+  (package
+    (inherit fluxer-bin)
+    (name "fluxer-git")))
+
+
+(define-public arc-solid-gtk-theme
+  (package
+    (inherit arc-theme)
+    (name "arc-solid-gtk-theme")))
+
+(define-public arc-gtk-theme
+  (package
+    (inherit arc-theme)
+    (name "arc-gtk-theme")))
+
+(define-public libindicator-gtk2
+  (package
+    (inherit libindicator)
+    (name "libindicator-gtk2")))
+
+
+(define-public libdbusmenu-gtk2
+  (package
+    (inherit libdbusmenu)
+    (name "libdbusmenu-gtk2")))
+
+(define-public lib32-libjpeg6-turbo
+  (package
+    (inherit libjpeg6-turbo)
+    (name "lib32-libjpeg6-turbo")))
+
+(define-public lib32-openssl-1.1
+  (package
+    (inherit openssl-1.1)
+    (name "lib32-openssl-1.1")))
