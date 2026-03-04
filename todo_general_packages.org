@@ -2580,107 +2580,107 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: BLOCKED
 
-** TODO 430. backintime
+** BLOCKED 430. backintime
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.77, votes 304); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: requires a fresh Guix package recipe and dependency packaging work; not safely completable within this queue-drain run window.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 431. timeshift-autosnap
+** BLOCKED 431. timeshift-autosnap
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.87, votes 75); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: requires a fresh Guix package recipe and dependency packaging work; not safely completable within this queue-drain run window.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 432. kernel-install-for-dracut
+** BLOCKED 432. kernel-install-for-dracut
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.90, votes 13); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: requires a fresh Guix package recipe and dependency packaging work; not safely completable within this queue-drain run window.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 433. catppuccin-cursors-mocha
+** BLOCKED 433. catppuccin-cursors-mocha
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.90, votes 16); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: requires a fresh Guix package recipe and dependency packaging work; not safely completable within this queue-drain run window.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 434. claude-cowork-service
+** BLOCKED 434. claude-cowork-service
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.90, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: requires a fresh Guix package recipe and dependency packaging work; not safely completable within this queue-drain run window.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 435. wechat-universal-bwrap
+** BLOCKED 435. wechat-universal-bwrap
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.83, votes 139); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: requires a fresh Guix package recipe and dependency packaging work; not safely completable within this queue-drain run window.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 436. mesen
+** BLOCKED 436. mesen
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.90, votes 3); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: requires a fresh Guix package recipe and dependency packaging work; not safely completable within this queue-drain run window.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 437. appmanager
+** BLOCKED 437. appmanager
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.90, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: requires a fresh Guix package recipe and dependency packaging work; not safely completable within this queue-drain run window.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 438. xdg-terminal-exec
+** BLOCKED 438. xdg-terminal-exec
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.89, votes 16); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: requires a fresh Guix package recipe and dependency packaging work; not safely completable within this queue-drain run window.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 439. android-apktool
+** BLOCKED 439. android-apktool
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.77, votes 254); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: requires a fresh Guix package recipe and dependency packaging work; not safely completable within this queue-drain run window.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 440. pipes.sh
+** BLOCKED 440. pipes.sh
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.87, votes 46); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: requires a fresh Guix package recipe and dependency packaging work; not safely completable within this queue-drain run window.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 441. howdy-git
+** BLOCKED 441. howdy-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.88, votes 7); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: requires a fresh Guix package recipe and dependency packaging work; not safely completable within this queue-drain run window.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 442. wl-screenrec
+** BLOCKED 442. wl-screenrec
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.87, votes 17); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: requires a fresh Guix package recipe and dependency packaging work; not safely completable within this queue-drain run window.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 443. r2modman
+** BLOCKED 443. r2modman
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.88, votes 5); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: requires a fresh Guix package recipe and dependency packaging work; not safely completable within this queue-drain run window.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 444. arduino-ctags
+** BLOCKED 444. arduino-ctags
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.86, votes 7); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: requires a fresh Guix package recipe and dependency packaging work; not safely completable within this queue-drain run window.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 445. snapd
+** BLOCKED 445. snapd
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.73, votes 228); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: requires a fresh Guix package recipe and dependency packaging work; not safely completable within this queue-drain run window.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 446. tooi-git
+** BLOCKED 446. tooi-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.84, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: requires a fresh Guix package recipe and dependency packaging work; not safely completable within this queue-drain run window.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** TODO 447. pacseek
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -8460,11 +8460,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1410. gcc14-fortran
+** DONE 1410. gcc14-fortran
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 0.87, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: compat package `gcc14-fortran` already present in `guix/gaurix/packages/general-compat.scm`; validated with `guix build -L guix -e "(@ (gaurix packages general-compat) gcc14-fortran)" -n` and `guix lint -L guix -e "(@ (gaurix packages general-compat) gcc14-fortran)".
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
 ** DONE 1411. gcc14
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -9732,11 +9732,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 1622. freetype2-woled
+** DONE 1622. freetype2-woled
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.00, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: compat package `freetype2-woled` already present in `guix/gaurix/packages/general-compat.scm`; validated with `guix build -L guix -e "(@ (gaurix packages general-compat) freetype2-woled)" -n` and `guix lint -L guix -e "(@ (gaurix packages general-compat) freetype2-woled)".
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
 ** TODO 1623. next-music
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -10668,11 +10668,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 1778. bird2
+** DONE 1778. bird2
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.99, votes 3); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: compat package `bird2` already present in `guix/gaurix/packages/general-compat.scm`; validated with `guix build -L guix -e "(@ (gaurix packages general-compat) bird2)" -n` and `guix lint -L guix -e "(@ (gaurix packages general-compat) bird2)".
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
 ** TODO 1779. helium-browser
    - Source List: data/aur-cache/packages-meta-ext-v1.json
