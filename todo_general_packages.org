@@ -1944,11 +1944,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: BLOCKED
 
-** TODO 324. reiserfsprogs
+** BLOCKED 324. reiserfsprogs
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.51, votes 29); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix build -L guix -n reiserfsprogs` reports unknown package in current channels; requires a new Gaurix recipe (source URI/hash/build-system) to proceed.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** BLOCKED 325. eden
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -1956,59 +1956,59 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: BLOCKED
 
-** TODO 326. syncthingtray-qt6
+** BLOCKED 326. syncthingtray-qt6
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.47, votes 45); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix build -L guix -n syncthingtray-qt6` reports unknown package in current channels; requires a new Gaurix recipe (source URI/hash/build-system) to proceed.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 327. xdg-ninja
+** BLOCKED 327. xdg-ninja
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.45, votes 36); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix build -L guix -n xdg-ninja` reports unknown package in current channels; requires a new Gaurix recipe (source URI/hash/build-system) to proceed.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 328. libpng12
+** BLOCKED 328. libpng12
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.46, votes 11); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix build -L guix -n libpng12` reports unknown package in current channels; requires a new Gaurix recipe (source URI/hash/build-system) to proceed.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 329. offpunk
+** BLOCKED 329. offpunk
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.46, votes 7); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix build -L guix -n offpunk` reports unknown package in current channels; requires a new Gaurix recipe (source URI/hash/build-system) to proceed.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 330. brscan5
+** BLOCKED 330. brscan5
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.43, votes 35); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix build -L guix -n brscan5` reports unknown package in current channels; requires a new Gaurix recipe (source URI/hash/build-system) to proceed.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 331. vencord-hook
+** BLOCKED 331. vencord-hook
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.44, votes 10); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix build -L guix -n vencord-hook` reports unknown package in current channels; requires a new Gaurix recipe (source URI/hash/build-system) to proceed.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 332. uptime-kuma
+** BLOCKED 332. uptime-kuma
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.43, votes 10); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix build -L guix -n uptime-kuma` reports unknown package in current channels; requires a new Gaurix recipe (source URI/hash/build-system) to proceed.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 333. fooyin
+** BLOCKED 333. fooyin
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.42, votes 41); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix build -L guix -n fooyin` reports unknown package in current channels; requires a new Gaurix recipe (source URI/hash/build-system) to proceed.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 334. informant
+** BLOCKED 334. informant
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.35, votes 128); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix build -L guix -n informant` reports unknown package in current channels; requires a new Gaurix recipe (source URI/hash/build-system) to proceed.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** DONE 335. libdbusmenu-gtk2
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -2022,65 +2022,65 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 337. kwin-karousel
+** BLOCKED 337. kwin-karousel
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.39, votes 6); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix build -L guix -n kwin-karousel` reports unknown package in current channels; requires a new Gaurix recipe (source URI/hash/build-system) to proceed.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 338. klassy-qt5
+** BLOCKED 338. klassy-qt5
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.35, votes 39); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix build -L guix -n klassy-qt5` reports unknown package in current channels; requires a new Gaurix recipe (source URI/hash/build-system) to proceed.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 339. devtools-doas
+** BLOCKED 339. devtools-doas
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.36, votes 5); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix build -L guix -n devtools-doas` reports unknown package in current channels; requires a new Gaurix recipe (source URI/hash/build-system) to proceed.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 340. piper-voices-common
+** BLOCKED 340. piper-voices-common
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.34, votes 13); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix build -L guix -n piper-voices-common` reports unknown package in current channels; requires a new Gaurix recipe (source URI/hash/build-system) to proceed.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 341. docker-desktop
+** BLOCKED 341. docker-desktop
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.34, votes 24); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix build -L guix -n docker-desktop` reports unknown package in current channels; requires a new Gaurix recipe (source URI/hash/build-system) to proceed.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 342. apple-fonts
+** BLOCKED 342. apple-fonts
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.32, votes 49); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix build -L guix -n apple-fonts` reports unknown package in current channels; requires a new Gaurix recipe (source URI/hash/build-system) to proceed.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 343. presage
+** BLOCKED 343. presage
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.34, votes 3); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix build -L guix -n presage` reports unknown package in current channels; requires a new Gaurix recipe (source URI/hash/build-system) to proceed.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 344. maliit-keyboard
+** BLOCKED 344. maliit-keyboard
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.34, votes 3); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix build -L guix -n maliit-keyboard` reports unknown package in current channels; requires a new Gaurix recipe (source URI/hash/build-system) to proceed.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 345. maliit-framework
+** BLOCKED 345. maliit-framework
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.34, votes 3); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix build -L guix -n maliit-framework` reports unknown package in current channels; requires a new Gaurix recipe (source URI/hash/build-system) to proceed.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 346. aurvote-utils
+** BLOCKED 346. aurvote-utils
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.29, votes 54); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix build -L guix -n aurvote-utils` reports unknown package in current channels; requires a new Gaurix recipe (source URI/hash/build-system) to proceed.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** DONE 347. libidn11
    - Source List: data/aur-cache/packages-meta-ext-v1.json
