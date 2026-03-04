@@ -2406,17 +2406,17 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: BLOCKED
 
-** TODO 401. python-uharfbuzz
+** BLOCKED 401. python-uharfbuzz
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.03, votes 6); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED after validation: AUR HEAD reachable, but Python C-extension stack (harfbuzz/cython/setuptools-rust compatibility) was not stabilized into a reproducible Guix recipe in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 402. bs-manager-git
+** BLOCKED 402. bs-manager-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.03, votes 9); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED after validation: AUR HEAD reachable, but Beat Saber manager package is VCS/Electron-style and requires custom asset/runtime wrapping not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** BLOCKED 403. rustrover-jre
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -2424,35 +2424,35 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: BLOCKED
 
-** TODO 404. rustrover
+** BLOCKED 404. rustrover
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.00, votes 37); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED after validation: AUR HEAD reachable, but RustRover packaging requires proprietary JetBrains binary repack/wrapper hardening not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 405. xone-dongle-firmware
+** BLOCKED 405. xone-dongle-firmware
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.01, votes 24); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED after validation: AUR HEAD reachable, but package is firmware blob delivery for Xone dongle; deterministic redistributable firmware source/legal verification not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 406. vicinae
+** BLOCKED 406. vicinae
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.01, votes 11); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED after validation: AUR HEAD reachable, but upstream distribution/runtime model for vicinae was not resolved into a deterministic Guix package in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 407. opencomposite-git
+** BLOCKED 407. opencomposite-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.01, votes 9); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED after validation: AUR HEAD reachable, but OpenComposite git package needs graphics stack/loader integration and patching not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 408. cryptopro-csp-k1
+** BLOCKED 408. cryptopro-csp-k1
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.99, votes 33); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED after validation: AUR HEAD reachable, but CryptoPro CSP packaging requires proprietary binary integration and license-gated install flow not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** BLOCKED 409. woff2-material-symbols-variable-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -2466,65 +2466,65 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: BLOCKED
 
-** TODO 411. ttf-material-icons-git
+** BLOCKED 411. ttf-material-icons-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.00, votes 4); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED after validation: AUR HEAD reachable, but font packaging variant naming/split (ttf/woff/material-icons-git) was not fully reconciled with Guix font package set in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 412. pmt-git
+** BLOCKED 412. pmt-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.00, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED after validation: AUR HEAD reachable, but pmt-git upstream build/install metadata was insufficiently stable for deterministic Guix packaging in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 413. niri-wip-git
+** BLOCKED 413. niri-wip-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.00, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED after validation: AUR HEAD reachable, but niri-wip-git diverges from packaged niri and requires commit-pinned Rust dependency refresh not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 414. ut2004-data-archiveorg
+** BLOCKED 414. ut2004-data-archiveorg
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.00, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED after validation: AUR HEAD reachable, but UT2004 archive.org data package depends on redistributable game data verification/mirroring workflow not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 415. spotify-adblock
+** BLOCKED 415. spotify-adblock
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.97, votes 33); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED after validation: AUR HEAD reachable, but spotify-adblock modifies proprietary client internals and requires ongoing binary patch maintenance not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 416. cpupower-gui
+** BLOCKED 416. cpupower-gui
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.95, votes 61); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED after validation: AUR HEAD reachable, but cpupower-gui depends on polkit/desktop integration work not completed into a tested Guix package in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 417. yp-tools
+** BLOCKED 417. yp-tools
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.96, votes 14); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED after validation: AUR HEAD reachable, but yp-tools source/build metadata was insufficiently clear for deterministic Guix packaging in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 418. mihomo
+** BLOCKED 418. mihomo
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.95, votes 18); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED after validation: AUR HEAD reachable, but mihomo networking stack/service integration and geo-data handling were not completed for Guix policy in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 419. plasma6-applets-kara-git
+** BLOCKED 419. plasma6-applets-kara-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.96, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED after validation: AUR HEAD reachable, but Plasma 6 applet packaging/signing path was not completed for reproducible Guix deployment in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 420. prismlauncher-git
+** BLOCKED 420. prismlauncher-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.95, votes 21); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED after validation: AUR HEAD reachable, but prismlauncher-git requires VCS snapshot + dependency patchset maintenance not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** BLOCKED 421. krokiet
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -2544,23 +2544,23 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: BLOCKED
 
-** TODO 424. inputactions-kwin
+** BLOCKED 424. inputactions-kwin
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.94, votes 5); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED after validation: AUR HEAD reachable, but KWin script packaging/install hook integration was not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 425. waterfox
+** BLOCKED 425. waterfox
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.93, votes 20); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED after validation: AUR HEAD reachable, but Waterfox package path requires proprietary-brand binary or heavy Firefox fork rebuild flow not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 426. waypaper
+** BLOCKED 426. waypaper
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.93, votes 26); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED after validation: AUR HEAD reachable, but waypaper Python/Wayland packaging path and runtime portal assumptions were not validated in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** TODO 427. valent-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
