@@ -100,4 +100,6 @@
             gcc14
             freetype2-woled
             bird2
-            lib32-libindicator-gtk2))
+            lib32-libindicator-gtk2
+            blesh-git
+            dualsensectl-git))

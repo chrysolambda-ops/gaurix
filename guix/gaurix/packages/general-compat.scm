@@ -9,6 +9,7 @@
   #:use-module (gnu packages)
   #:use-module (gnu packages gtk)
   #:use-module (gnu packages shells)
+  #:use-module (gnu packages bash)
   #:use-module (gnu packages libidn)
   #:use-module (gnu packages ncurses)
   #:use-module (gnu packages vim)
@@ -33,6 +34,7 @@
   #:use-module (gnu packages gl)
   #:use-module (gnu packages gnome-xyz)
   #:use-module (gnu packages hardware)
+  #:use-module (gnu packages linux)
   #:use-module (gnu packages kde-plasma)
   #:use-module (gnu packages language)
   #:use-module (gnu packages mold)
@@ -142,7 +144,9 @@
             gcc14
             freetype2-woled
             bird2
-            lib32-libindicator-gtk2))
+            lib32-libindicator-gtk2
+            blesh-git
+            dualsensectl-git))
 
 (define-public gtk2
   (package
@@ -731,3 +735,14 @@
   (package (inherit (specification->package "bird"))
            (name "bird2")))
 
+
+
+(define-public blesh-git
+  (package
+    (inherit (specification->package "blesh"))
+    (name "blesh-git")))
+
+(define-public dualsensectl-git
+  (package
+    (inherit (specification->package "dualsensectl"))
+    (name "dualsensectl-git")))
