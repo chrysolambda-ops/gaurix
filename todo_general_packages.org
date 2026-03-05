@@ -4152,17 +4152,17 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 692. mpv-full
+** BLOCKED 692. mpv-full
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.22, votes 29); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: attempted compat alias path to upstream `mpv`, but `mpv-full` is not exposed by current channel package-discovery flow (`guix build -L guix -n mpv-full` -> unknown package); needs channel discovery fix before safe completion.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 693. mpc-qt
+** BLOCKED 693. mpc-qt
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.22, votes 24); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match for `mpc-qt` in active channels (`guix search '^mpc-qt$'` empty); requires new recipe with pinned source/hash.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** BLOCKED 694. mullvad-browser
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -4170,29 +4170,29 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: BLOCKED
 
-** TODO 695. btrfs-desktop-notification
+** BLOCKED 695. btrfs-desktop-notification
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.22, votes 12); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match for `btrfs-desktop-notification` in active channels (`guix search '^btrfs-desktop-notification$'` empty); requires new recipe with pinned source/hash.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 696. envycontrol
+** BLOCKED 696. envycontrol
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.20, votes 33); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match for `envycontrol` in active channels (`guix search '^envycontrol$'` empty); requires new recipe with pinned source/hash.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 697. obs-studio-liberty
+** BLOCKED 697. obs-studio-liberty
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.21, votes 15); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match for `obs-studio-liberty` in active channels (`guix search '^obs-studio-liberty$'` empty); requires new recipe with pinned source/hash.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 698. otree
+** BLOCKED 698. otree
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.22, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match for `otree` in active channels (`guix search '^otree$'` empty); requires new recipe with pinned source/hash.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** DONE 699. mold-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -4206,29 +4206,29 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 701. neo-matrix
+** BLOCKED 701. neo-matrix
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.21, votes 13); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match for `neo-matrix` in active channels (`guix search '^neo-matrix$'` empty); requires new recipe with pinned source/hash.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 702. ffvship
+** BLOCKED 702. ffvship
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.21, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match for `ffvship` in active channels (`guix search '^ffvship$'` empty); requires new recipe with pinned source/hash.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 703. instaloader
+** BLOCKED 703. instaloader
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.20, votes 32); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match for `instaloader` in active channels (`guix search '^instaloader$'` empty); requires new recipe with pinned source/hash.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 704. ascii-chat
+** BLOCKED 704. ascii-chat
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.21, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match for `ascii-chat` in active channels (`guix search '^ascii-chat$'` empty); requires new recipe with pinned source/hash.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** BLOCKED 705. google-chrome-canary
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -4236,29 +4236,29 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: BLOCKED
 
-** TODO 706. dms-shell-git
+** BLOCKED 706. dms-shell-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.21, votes 3); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match for `dms-shell`/`dms-shell-git` in active channels (`guix search '^dms-shell$'` empty); requires new recipe with pinned source/hash.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 707. discordo-git
+** BLOCKED 707. discordo-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.20, votes 14); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match for `discordo-git` in active channels (`guix search '^discordo-git$'` empty); requires new recipe with pinned source/hash.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 708. llama.cpp-hip
+** BLOCKED 708. llama.cpp-hip
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.20, votes 10); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match for `llama.cpp-hip` in active channels (`guix search '^llama.cpp-hip$'` empty); requires variant recipe with ROCm/HIP constraints.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 709. linux-lqx-headers
+** BLOCKED 709. linux-lqx-headers
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.12, votes 167); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match for `linux-lqx-headers` in active channels (`guix search '^linux-lqx-headers$'` empty); requires custom kernel flavor recipe.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** BLOCKED 710. linux-lqx-docs
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -4386,17 +4386,17 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: BLOCKED
 
-** TODO 731. localepurge
+** BLOCKED 731. localepurge
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.04, votes 264); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match for `localepurge` in active channels (`guix search '^localepurge$'` empty); requires new recipe with pinned source/hash.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 732. balena-etcher
+** BLOCKED 732. balena-etcher
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.04, votes 270); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match for `balena-etcher` in active channels (`guix search '^balena-etcher$'` empty); requires binary/Electron recipe with pinned source/hash.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** TODO 733. ktailctl
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -11664,11 +11664,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 1944. handbrake-full
+** BLOCKED 1944. handbrake-full
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked AUR candidate (popularity 1.217, votes 24); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Status: BLOCKED: attempted compat alias path to upstream `handbrake`, but `handbrake-full` is not exposed by current channel package-discovery flow (`guix build -L guix -n handbrake-full` -> unknown package); needs channel discovery fix before safe completion.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** TODO 1945. handbrake-full-cli
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -11754,11 +11754,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 1959. inkscape-bin
+** BLOCKED 1959. inkscape-bin
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked AUR candidate (popularity 1.160, votes 2); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Status: BLOCKED: attempted compat alias path to upstream `inkscape`, but `inkscape-bin` is not exposed by current channel package-discovery flow (`guix build -L guix -n inkscape-bin` -> unknown package); needs channel discovery fix before safe completion.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** TODO 1960. cubeb-docs
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -11784,11 +11784,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 1964. hyprland-git
+** BLOCKED 1964. hyprland-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked AUR candidate (popularity 1.145, votes 99); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Status: BLOCKED: attempted compat alias path to upstream `hyprland`, but `hyprland-git` is not exposed by current channel package-discovery flow (`guix build -L guix -n hyprland-git` -> unknown package); needs channel discovery fix before safe completion.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** TODO 1965. sing-box-ref1nd
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -11982,11 +11982,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 1997. beads-git
+** BLOCKED 1997. beads-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked AUR candidate (popularity 1.066, votes 2); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Status: BLOCKED: attempted compat alias path to upstream `beads`, but `beads-git` is not exposed by current channel package-discovery flow (`guix build -L guix -n beads-git` -> unknown package); needs channel discovery fix before safe completion.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** TODO 1998. livebook
    - Source List: data/aur-cache/packages-meta-ext-v1.json
