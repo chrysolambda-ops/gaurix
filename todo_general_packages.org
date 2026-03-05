@@ -3156,35 +3156,35 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: BLOCKED
 
-** TODO 526. soteria-git
+** BLOCKED 526. soteria-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.61, votes 4); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix search ^soteria-git$` returned no matches in current channels, and no vetted upstream source recipe (pinned URI+hash) was completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 527. cnmatrix
+** BLOCKED 527. cnmatrix
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.61, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix search ^cnmatrix$` returned no matches in current channels, and no vetted upstream source recipe (pinned URI+hash) was completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 528. quickemu
+** BLOCKED 528. quickemu
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.59, votes 41); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix search ^quickemu$` returned no matches in current channels, and no vetted upstream source recipe (pinned URI+hash) was completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 529. lsfg-vk-git
+** BLOCKED 529. lsfg-vk-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.60, votes 14); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix search ^lsfg-vk-git$` returned no matches in current channels, and no vetted upstream source recipe (pinned URI+hash) was completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 530. xray
+** BLOCKED 530. xray
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.59, votes 30); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix search ^xray$` returned no matches in current channels, and no vetted upstream source recipe (pinned URI+hash) was completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** DONE 531. kwin-effects-geometry-change
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -3192,35 +3192,35 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 532. qobuz-player
+** BLOCKED 532. qobuz-player
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.60, votes 7); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix search ^qobuz-player$` returned no matches in current channels, and no vetted upstream source recipe (pinned URI+hash) was completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 533. cobang
+** BLOCKED 533. cobang
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.58, votes 25); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix search ^cobang$` returned no matches in current channels, and no vetted upstream source recipe (pinned URI+hash) was completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 534. wayvr
+** BLOCKED 534. wayvr
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.59, votes 5); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix search ^wayvr$` returned no matches in current channels, and no vetted upstream source recipe (pinned URI+hash) was completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 535. pkglog
+** BLOCKED 535. pkglog
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.59, votes 6); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix search ^pkglog$` returned no matches in current channels, and no vetted upstream source recipe (pinned URI+hash) was completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 536. elephant-bluetooth
+** BLOCKED 536. elephant-bluetooth
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.59, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix search ^elephant-bluetooth$` returned no matches in current channels, and no vetted upstream source recipe (pinned URI+hash) was completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** BLOCKED 537. dms-shell-niri
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -3234,29 +3234,29 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: BLOCKED
 
-** TODO 539. dms-shell
+** BLOCKED 539. dms-shell
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.59, votes 5); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix search ^dms-shell$` returned no matches in current channels, and no vetted upstream source recipe (pinned URI+hash) was completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 540. inori
+** BLOCKED 540. inori
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.59, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix search ^inori$` returned no matches in current channels, and no vetted upstream source recipe (pinned URI+hash) was completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 541. epsonscan2
+** BLOCKED 541. epsonscan2
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.57, votes 19); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix search ^epsonscan2$` returned no matches in current channels, and no vetted upstream source recipe (pinned URI+hash) was completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 542. adwsteamgtk
+** BLOCKED 542. adwsteamgtk
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.57, votes 14); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix search ^adwsteamgtk$` returned no matches in current channels, and no vetted upstream source recipe (pinned URI+hash) was completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** DONE 543. ffmpeg-full
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -3264,17 +3264,17 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 544. yandex-browser
+** BLOCKED 544. yandex-browser
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.54, votes 48); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix search ^yandex-browser$` returned no matches in current channels, and no vetted upstream source recipe (pinned URI+hash) was completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 545. app2unit
+** BLOCKED 545. app2unit
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.56, votes 5); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix search ^app2unit$` returned no matches in current channels, and no vetted upstream source recipe (pinned URI+hash) was completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** DONE 546. python311
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -3282,29 +3282,29 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 547. woeusb-ng
+** BLOCKED 547. woeusb-ng
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.46, votes 189); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix search ^woeusb-ng$` returned no matches in current channels, and no vetted upstream source recipe (pinned URI+hash) was completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 548. teamspeak
+** BLOCKED 548. teamspeak
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.54, votes 21); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix search ^teamspeak$` returned no matches in current channels, and no vetted upstream source recipe (pinned URI+hash) was completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 549. ticktick
+** BLOCKED 549. ticktick
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.53, votes 20); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix search ^ticktick$` returned no matches in current channels, and no vetted upstream source recipe (pinned URI+hash) was completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 550. coccoc-browser-stable
+** BLOCKED 550. coccoc-browser-stable
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.54, votes 3); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `guix search ^coccoc-browser-stable$` returned no matches in current channels, and no vetted upstream source recipe (pinned URI+hash) was completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** TODO 551. rustdesk-server
    - Source List: data/aur-cache/packages-meta-ext-v1.json
