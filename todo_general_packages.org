@@ -3306,59 +3306,59 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: BLOCKED
 
-** TODO 551. rustdesk-server
+** BLOCKED 551. rustdesk-server
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.53, votes 3); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: AUR recipe exists, but upstream deployment is multi-component (hbbs/hbbr/rustdesk-utils) and no validated Guix service/package split was completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 552. kiro-ide
+** BLOCKED 552. kiro-ide
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.53, votes 10); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: AUR recipe exists but distributes proprietary prebuilt IDE artifacts; Guix binary-wrapper package (patchelf/wrapper/desktop integration) not validated in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 553. gixy-next
+** BLOCKED 553. gixy-next
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.53, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: AUR recipe exists, but Python dependency graph was not resolved to a reproducible Guix lockstep set in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 554. goose-desktop
+** BLOCKED 554. goose-desktop
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.52, votes 6); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: AUR recipe exists, but Electron binary/source packaging path and runtime wrapping were not validated this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 555. surfshark-client
+** BLOCKED 555. surfshark-client
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.51, votes 28); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: AUR recipe exists, but upstream VPN client packaging requires proprietary binaries plus privileged networking integration not validated this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 556. ntfysh
+** BLOCKED 556. ntfysh
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.51, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: AUR recipe exists, but upstream source mapping and reproducible Guix build recipe were not finalized in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 557. ttf-twemoji-color
+** BLOCKED 557. ttf-twemoji-color
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.45, votes 116); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: AUR recipe exists, but color-font build/install pipeline (CBDT/SVG variants) was not validated into a reproducible Guix package in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 558. hermes-pm
+** BLOCKED 558. hermes-pm
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.50, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: AUR recipe exists, but package source provenance/build-system mapping was not validated for Guix in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 559. shelly
+** BLOCKED 559. shelly
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.50, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: AUR recipe exists, but package name is ambiguous across upstream projects; deterministic source mapping was not established in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** DONE 560. openrdap-client
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -3366,71 +3366,71 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 561. runapp
+** BLOCKED 561. runapp
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.49, votes 7); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: AUR recipe exists, but upstream release/source verification and Guix recipe validation were not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 562. feishin
+** BLOCKED 562. feishin
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.49, votes 4); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: AUR recipe exists, but Electron packaging/wrapping path was not validated for Guix in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 563. whisper.cpp-hip
+** BLOCKED 563. whisper.cpp-hip
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.49, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: AUR recipe exists, but ROCm/HIP toolchain constraints were not satisfied in this environment for a validated Guix build.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 564. multi-account-containers-lite
+** BLOCKED 564. multi-account-containers-lite
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.49, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: AUR recipe exists, but browser-extension packaging/signing/distribution model was not validated for Guix in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 565. midori-multi-account-containers-lite
+** BLOCKED 565. midori-multi-account-containers-lite
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.49, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: authoritative AUR git endpoint missing (no repository/HEAD for this exact package name).
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 566. librewolf-multi-account-containers-lite
+** BLOCKED 566. librewolf-multi-account-containers-lite
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.49, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: authoritative AUR git endpoint missing (no repository/HEAD for this exact package name).
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 567. konform-multi-account-containers-lite
+** BLOCKED 567. konform-multi-account-containers-lite
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.49, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: authoritative AUR git endpoint missing (no repository/HEAD for this exact package name).
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 568. icecat-multi-account-containers-lite
+** BLOCKED 568. icecat-multi-account-containers-lite
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.49, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: authoritative AUR git endpoint missing (no repository/HEAD for this exact package name).
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 569. floorp-multi-account-containers-lite
+** BLOCKED 569. floorp-multi-account-containers-lite
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.49, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: authoritative AUR git endpoint missing (no repository/HEAD for this exact package name).
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 570. firefox-multi-account-containers-lite
+** BLOCKED 570. firefox-multi-account-containers-lite
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.49, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: authoritative AUR git endpoint missing (no repository/HEAD for this exact package name).
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 571. firedragon-multi-account-containers-lite
+** BLOCKED 571. firedragon-multi-account-containers-lite
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.49, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: authoritative AUR git endpoint missing (no repository/HEAD for this exact package name).
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** TODO 572. konform-browser
    - Source List: data/aur-cache/packages-meta-ext-v1.json
