@@ -5604,89 +5604,89 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 934. python-emoji-country-flag
+** BLOCKED 934. python-emoji-country-flag
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.02, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: No matching package in current Guix package set (`guix search`/`guix build -L guix -n`) and no vetted source recipe prepared in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 935. gtkspell
+** DONE 935. gtkspell
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.02, votes 5); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Gaurix compat alias to upstream Guix package `gtkspell3` as `gtkspell` in `general-compat.scm`; validated with `guix build -L guix -n gtkspell` and `guix lint -L guix gtkspell`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
-** TODO 936. nautilus-typeahead
+** BLOCKED 936. nautilus-typeahead
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 46); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: GNOME Nautilus patchset/extension split requires new source package definitions and integration work not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 937. libnautilus-extension-typeahead
+** BLOCKED 937. libnautilus-extension-typeahead
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 46); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: GNOME Nautilus extension ABI-targeted package not present in active Guix set; needs new recipe and Nautilus integration validation.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 938. clipse-gui
+** BLOCKED 938. clipse-gui
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.02, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: No Guix equivalent found and upstream packaging path (GUI + runtime deps) not implemented in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 939. zerobrane-studio
+** BLOCKED 939. zerobrane-studio
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 44); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: No Guix equivalent found; upstream IDE recipe not yet authored/validated for Gaurix in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 940. openseachest
+** BLOCKED 940. openseachest
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.02, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: No Guix equivalent found; upstream Java/distribution packaging needs new recipe with source hash and install phases.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 941. pix
+** BLOCKED 941. pix
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 44); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: No active Guix package match for `pix`; Cinnamon/gnome-xyz packaging path not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 942. qimgv-qt6-kde-git
+** BLOCKED 942. qimgv-qt6-kde-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.01, votes 16); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: VCS/KDE Qt6 package requires fresh source recipe and dependency graphing; not completed safely in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 943. linuxqq-nt-bwrap
+** BLOCKED 943. linuxqq-nt-bwrap
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 45); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: Proprietary QQ wrapper package requires new binary-package recipe/wrapper hardening; not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 944. promptfoo
+** BLOCKED 944. promptfoo
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.02, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: Node/Electron-style tooling package not available in active Guix set; new recipe not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 945. mycelium
+** BLOCKED 945. mycelium
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.02, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: Upstream package identity ambiguous (multiple projects named mycelium); deterministic source mapping not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 946. openconnect-sso
+** BLOCKED 946. openconnect-sso
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.01, votes 19); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: OpenConnect SSO helper not present in active Guix set; needs new recipe and auth-flow runtime validation.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 947. mangowc-git
+** BLOCKED 947. mangowc-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.01, votes 7); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: VCS package with wlroots/Wayland deps requires new recipe and compositor integration checks; not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** BLOCKED 948. mpv-uosc
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -5694,41 +5694,41 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: BLOCKED
 
-** TODO 949. lsplug
+** BLOCKED 949. lsplug
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.01, votes 7); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: No active Guix package match; plugin utility source/ABI mapping not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 950. libastal-git
+** BLOCKED 950. libastal-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.01, votes 10); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: Astal VCS package family requires coordinated libastal stack packaging; not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 951. evenmoreutils
+** BLOCKED 951. evenmoreutils
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.01, votes 4); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: No active Guix package match; utility collection needs fresh recipe and command-level tests.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 952. plasma6-themes-fluent-git
+** BLOCKED 952. plasma6-themes-fluent-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.01, votes 5); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: Plasma theme VCS package requires assets/install layout recipe and KDE theme validation; not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 953. opencloud-desktop
+** BLOCKED 953. opencloud-desktop
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.01, votes 6); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: No active Guix equivalent found; desktop client packaging (likely electron/qt) not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 954. vapoursynth-plugin-vsjetpack
+** BLOCKED 954. vapoursynth-plugin-vsjetpack
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.01, votes 4); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: VapourSynth plugin package is not in active Guix set; requires new source recipe plus vapoursynth ABI compatibility checks not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** TODO 955. video-compare
    - Source List: data/aur-cache/packages-meta-ext-v1.json

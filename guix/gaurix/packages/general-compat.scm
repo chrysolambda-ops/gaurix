@@ -60,6 +60,7 @@
             xlibre-xserver xlibre-xserver-bootstrap xlibre-xserver-xnest xlibre-xserver-xephyr xlibre-xserver-devel xlibre-xserver-common xlibre-xserver-xvfb qt5-remoteobjects qt5-webchannel qt5-websockets
             dashbinsh libidn11 ncurses5-compat-libs neovim-symlinks neovim-git lib32-libidn11
             gtk-engine-murrine
+            gtkspell
             python313
             botan2
             piper-tts
@@ -295,6 +296,11 @@
   (package
     (inherit murrine)
     (name "gtk-engine-murrine")))
+
+(define-public gtkspell
+  (package
+    (inherit gtkspell3)
+    (name "gtkspell")))
 
 (define-public botan2
   (package

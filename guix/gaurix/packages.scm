@@ -19,6 +19,7 @@
             xlibre-xserver xlibre-xserver-bootstrap xlibre-xserver-common xlibre-xserver-devel xlibre-xserver-xephyr xlibre-xserver-xnest xlibre-xserver-xvfb qt5-remoteobjects qt5-webchannel qt5-websockets
             dashbinsh libidn11 ncurses5-compat-libs neovim-symlinks neovim-git lib32-libidn11
             gtk-engine-murrine
+            gtkspell
             python313
             lib32-gtk2 openssl-1.0
             botan2
