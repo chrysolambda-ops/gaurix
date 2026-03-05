@@ -12,6 +12,7 @@
   #:use-module (gaurix packages comfyui-cuda)
   #:use-module (gaurix packages general-compat)
   #:use-module (gaurix packages ffglitch)
+  #:use-module (gaurix packages python-compat)
   #:export (hello-gaurix
             localsend-bin
             aider-chat
@@ -164,4 +165,9 @@
             gimp-devel
             alacritty-themes
             josm-latest
-            gforth-docs))
+            gforth-docs
+            python-pdm-pep517
+            python-argparse-from-file
+            python-ewmh
+            python-transmission-rpc
+            python-proton-client))

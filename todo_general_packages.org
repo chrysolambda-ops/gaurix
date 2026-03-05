@@ -3570,17 +3570,17 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: FAILED
 
-** TODO 595. python-pdm-pep517
+** DONE 595. python-pdm-pep517
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.43, votes 4); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added `python-pdm-pep517` in `guix/gaurix/packages/python-compat.scm` from PyPI source; validated with `guix build -L guix -n python-pdm-pep517` and `guix lint -L guix python-pdm-pep517`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
-** TODO 596. chkrootkit
+** BLOCKED 596. chkrootkit
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.42, votes 13); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `chkrootkit` has no ready upstream Guix package and requires a bespoke legacy build recipe/audit not completed in this queue pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** DONE 597. evolution-tray-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -3588,89 +3588,89 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 598. charles-bundled-java
+** BLOCKED 598. charles-bundled-java
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.41, votes 9); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `charles-bundled-java` is distributed as a proprietary bundled binary with restrictive redistribution terms; lawful Guix repackaging path was not established in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 599. slack
+** BLOCKED 599. slack
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.39, votes 37); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `slack` requires proprietary prebuilt Electron redistribution/wrapping work; Guix package integration not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 600. pixelorama
+** BLOCKED 600. pixelorama
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.40, votes 7); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `pixelorama` requires a Godot export packaging flow and asset/runtime wiring not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 601. pgadmin4-desktop
+** BLOCKED 601. pgadmin4-desktop
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.39, votes 19); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `pgadmin4-desktop` requires multi-component desktop/web packaging integration not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 602. gnome-shell-pomodoro
+** BLOCKED 602. gnome-shell-pomodoro
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.33, votes 118); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `gnome-shell-pomodoro` needs GNOME Shell extension packaging/integration work not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 603. qtqr
+** BLOCKED 603. qtqr
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.39, votes 3); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `qtqr` depends on older Qt-era stack assumptions and needs patching/porting not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 604. hypseus-singe
+** BLOCKED 604. hypseus-singe
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.38, votes 6); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `hypseus-singe` recipe work (source selection, dependencies, and build fixes) not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 605. packet
+** BLOCKED 605. packet
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.38, votes 10); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `packet` is ambiguous as a package target name (multiple upstream projects); canonical source target not resolved in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 606. par-git
+** BLOCKED 606. par-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.38, votes 4); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `par-git` is VCS-head packaging requiring pinning and recipe hardening not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 607. bolt-launcher
+** BLOCKED 607. bolt-launcher
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.37, votes 21); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `bolt-launcher` is a binary/self-updating launcher; reproducible Guix wrapping not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 608. backrest
+** BLOCKED 608. backrest
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.37, votes 12); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `backrest` package recipe/dependency graph was not completed and validated in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 609. arduino-ide
+** BLOCKED 609. arduino-ide
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.37, votes 6); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `arduino-ide` requires substantial bundled-toolchain handling and wrapper work not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 610. deezer-enhanced
+** BLOCKED 610. deezer-enhanced
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.37, votes 4); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `deezer-enhanced` depends on third-party client patching/wrapping flow not completed in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 611. matlab-mpm
+** BLOCKED 611. matlab-mpm
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.37, votes 4); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `matlab-mpm` is proprietary installer tooling; lawful/reproducible packaging path not established in this pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** TODO 612. universal-android-debloater
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -4104,11 +4104,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 684. python-argparse-from-file
+** DONE 684. python-argparse-from-file
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.23, votes 6); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added `python-argparse-from-file` in `guix/gaurix/packages/python-compat.scm` from upstream git source; validated with `guix build -L guix -n python-argparse-from-file` and `guix lint -L guix python-argparse-from-file`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
 ** TODO 685. wf-shell
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -4410,11 +4410,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 735. python-ewmh
+** DONE 735. python-ewmh
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.16, votes 5); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added `python-ewmh` in `guix/gaurix/packages/python-compat.scm` from upstream git source; validated with `guix build -L guix -n python-ewmh` and `guix lint -L guix python-ewmh`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
 ** BLOCKED 736. vscodium
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -4752,11 +4752,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 792. python-transmission-rpc
+** DONE 792. python-transmission-rpc
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.09, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added `python-transmission-rpc` in `guix/gaurix/packages/python-compat.scm` from upstream git source; validated with `guix build -L guix -n python-transmission-rpc` and `guix lint -L guix python-transmission-rpc`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
 ** TODO 793. bugwarrior
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -4920,11 +4920,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 820. python-proton-client
+** DONE 820. python-proton-client
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.04, votes 39); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added `python-proton-client` in `guix/gaurix/packages/python-compat.scm` from upstream git source; validated with `guix build -L guix -n python-proton-client` and `guix lint -L guix python-proton-client`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
 ** TODO 821. nvidia-beta
    - Source List: data/aur-cache/packages-meta-ext-v1.json
