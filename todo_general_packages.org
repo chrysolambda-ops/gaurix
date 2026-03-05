@@ -3672,65 +3672,65 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: BLOCKED
 
-** TODO 612. universal-android-debloater
+** BLOCKED 612. universal-android-debloater
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.36, votes 16); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match from `guix search '^universal-android-debloater$'`; new recipe (source URI/hash + dependency/wrapper work) not completed safely in this queue pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 613. r8125-dkms
+** BLOCKED 613. r8125-dkms
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.36, votes 21); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match from `guix search '^r8125-dkms$'`; new recipe (source URI/hash + dependency/wrapper work) not completed safely in this queue pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 614. ttf-joypixels
+** BLOCKED 614. ttf-joypixels
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.35, votes 21); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match from `guix search '^ttf-joypixels$'`; new recipe (source URI/hash + dependency/wrapper work) not completed safely in this queue pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 615. paruse
+** BLOCKED 615. paruse
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.36, votes 6); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match from `guix search '^paruse$'`; new recipe (source URI/hash + dependency/wrapper work) not completed safely in this queue pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 616. lidm
+** BLOCKED 616. lidm
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.36, votes 5); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match from `guix search '^lidm$'`; new recipe (source URI/hash + dependency/wrapper work) not completed safely in this queue pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 617. whatsit-git
+** BLOCKED 617. whatsit-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.36, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match from `guix search '^whatsit-git$'`; new recipe (source URI/hash + dependency/wrapper work) not completed safely in this queue pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 618. pantum-universal-driver
+** BLOCKED 618. pantum-universal-driver
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.35, votes 5); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match from `guix search '^pantum-universal-driver$'`; new recipe (source URI/hash + dependency/wrapper work) not completed safely in this queue pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 619. qt5-examples
+** BLOCKED 619. qt5-examples
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.35, votes 6); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match from `guix search '^qt5-examples$'`; new recipe (source URI/hash + dependency/wrapper work) not completed safely in this queue pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 620. qt5-doc
+** BLOCKED 620. qt5-doc
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.35, votes 6); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match from `guix search '^qt5-doc$'`; new recipe (source URI/hash + dependency/wrapper work) not completed safely in this queue pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 621. piliplus
+** BLOCKED 621. piliplus
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.35, votes 4); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match from `guix search '^piliplus$'`; new recipe (source URI/hash + dependency/wrapper work) not completed safely in this queue pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** DONE 622. ccache-ext
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -3738,65 +3738,65 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 623. ttf-ms-win10-auto-zh_tw
+** BLOCKED 623. ttf-ms-win10-auto-zh_tw
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.33, votes 44); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: authoritative AUR endpoint `https://aur.archlinux.org/ttf-ms-win10-auto-zh_tw.git` has no reachable HEAD for this exact package name, preventing deterministic source import.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 624. ttf-ms-win10-auto-zh_cn
+** BLOCKED 624. ttf-ms-win10-auto-zh_cn
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.33, votes 44); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: authoritative AUR endpoint `https://aur.archlinux.org/ttf-ms-win10-auto-zh_cn.git` has no reachable HEAD for this exact package name, preventing deterministic source import.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 625. ttf-ms-win10-auto-thai
+** BLOCKED 625. ttf-ms-win10-auto-thai
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.33, votes 44); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: authoritative AUR endpoint `https://aur.archlinux.org/ttf-ms-win10-auto-thai.git` has no reachable HEAD for this exact package name, preventing deterministic source import.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 626. ttf-ms-win10-auto-sea
+** BLOCKED 626. ttf-ms-win10-auto-sea
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.33, votes 44); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: authoritative AUR endpoint `https://aur.archlinux.org/ttf-ms-win10-auto-sea.git` has no reachable HEAD for this exact package name, preventing deterministic source import.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 627. ttf-ms-win10-auto-other
+** BLOCKED 627. ttf-ms-win10-auto-other
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.33, votes 44); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: authoritative AUR endpoint `https://aur.archlinux.org/ttf-ms-win10-auto-other.git` has no reachable HEAD for this exact package name, preventing deterministic source import.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 628. ttf-ms-win10-auto-korean
+** BLOCKED 628. ttf-ms-win10-auto-korean
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.33, votes 44); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: authoritative AUR endpoint `https://aur.archlinux.org/ttf-ms-win10-auto-korean.git` has no reachable HEAD for this exact package name, preventing deterministic source import.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 629. ttf-ms-win10-auto-japanese
+** BLOCKED 629. ttf-ms-win10-auto-japanese
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.33, votes 44); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: authoritative AUR endpoint `https://aur.archlinux.org/ttf-ms-win10-auto-japanese.git` has no reachable HEAD for this exact package name, preventing deterministic source import.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 630. ttf-ms-win10-auto
+** BLOCKED 630. ttf-ms-win10-auto
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.33, votes 44); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match from `guix search '^ttf-ms-win10-auto$'`; new recipe (source URI/hash + dependency/wrapper work) not completed safely in this queue pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 631. mkinitcpio-numlock
+** BLOCKED 631. mkinitcpio-numlock
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.32, votes 50); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match from `guix search '^mkinitcpio-numlock$'`; new recipe (source URI/hash + dependency/wrapper work) not completed safely in this queue pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 632. portproton
+** BLOCKED 632. portproton
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.33, votes 28); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match from `guix search '^portproton$'`; new recipe (source URI/hash + dependency/wrapper work) not completed safely in this queue pass.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** TODO 633. rtw88-dkms-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
