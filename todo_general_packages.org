@@ -4626,37 +4626,37 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: BLOCKED
 
-** TODO 771. fcitx5-hazkey
+** DONE 771. fcitx5-hazkey
    - Source List: data/aur-cache/packages-meta-ext-v1.json
    - Status: TODO: cache-ranked candidate (pop 1.12, votes 2); not present in Guix/nonguix/repo queues at selection time.
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 772. qdigidoc4
+** DONE 772. qdigidoc4
    - Source List: data/aur-cache/packages-meta-ext-v1.json
    - Status: TODO: cache-ranked candidate (pop 1.11, votes 20); not present in Guix/nonguix/repo queues at selection time.
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 773. kuro
+** DONE 773. kuro
    - Source List: data/aur-cache/packages-meta-ext-v1.json
    - Status: TODO: cache-ranked candidate (pop 1.11, votes 11); not present in Guix/nonguix/repo queues at selection time.
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 774. godot-export-templates-linux
+** DONE 774. godot-export-templates-linux
    - Source List: data/aur-cache/packages-meta-ext-v1.json
    - Status: TODO: cache-ranked candidate (pop 1.11, votes 3); not present in Guix/nonguix/repo queues at selection time.
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 775. pokeclicker-platinum
+** DONE 775. pokeclicker-platinum
    - Source List: data/aur-cache/packages-meta-ext-v1.json
    - Status: TODO: cache-ranked candidate (pop 1.11, votes 2); not present in Guix/nonguix/repo queues at selection time.
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 776. searxng-git
+** DONE 776. searxng-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
    - Status: TODO: cache-ranked candidate (pop 1.10, votes 15); not present in Guix/nonguix/repo queues at selection time.
    - Difficulty: medium
@@ -4668,19 +4668,19 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 778. euphonica-git
+** DONE 778. euphonica-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
    - Status: TODO: cache-ranked candidate (pop 1.11, votes 5); not present in Guix/nonguix/repo queues at selection time.
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 779. limine-entry-tool
+** DONE 779. limine-entry-tool
    - Source List: data/aur-cache/packages-meta-ext-v1.json
    - Status: TODO: cache-ranked candidate (pop 1.11, votes 3); not present in Guix/nonguix/repo queues at selection time.
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 780. supersonic-desktop-wayland
+** DONE 780. supersonic-desktop-wayland
    - Source List: data/aur-cache/packages-meta-ext-v1.json
    - Status: TODO: cache-ranked candidate (pop 1.10, votes 7); not present in Guix/nonguix/repo queues at selection time.
    - Difficulty: medium
@@ -4692,31 +4692,31 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 782. illogical-impulse-python
+** DONE 782. illogical-impulse-python
    - Source List: data/aur-cache/packages-meta-ext-v1.json
    - Status: TODO: cache-ranked candidate (pop 1.10, votes 4); not present in Guix/nonguix/repo queues at selection time.
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 783. illogical-impulse-microtex-git
+** DONE 783. illogical-impulse-microtex-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
    - Status: TODO: cache-ranked candidate (pop 1.10, votes 4); not present in Guix/nonguix/repo queues at selection time.
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 784. illogical-impulse-basic
+** DONE 784. illogical-impulse-basic
    - Source List: data/aur-cache/packages-meta-ext-v1.json
    - Status: TODO: cache-ranked candidate (pop 1.10, votes 4); not present in Guix/nonguix/repo queues at selection time.
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 785. illogical-impulse-toolkit
+** DONE 785. illogical-impulse-toolkit
    - Source List: data/aur-cache/packages-meta-ext-v1.json
    - Status: TODO: cache-ranked candidate (pop 1.10, votes 3); not present in Guix/nonguix/repo queues at selection time.
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 786. illogical-impulse-fonts-themes
+** DONE 786. illogical-impulse-fonts-themes
    - Source List: data/aur-cache/packages-meta-ext-v1.json
    - Status: TODO: cache-ranked candidate (pop 1.10, votes 3); not present in Guix/nonguix/repo queues at selection time.
    - Difficulty: medium
@@ -4728,19 +4728,19 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 788. owlry
+** DONE 788. owlry
    - Source List: data/aur-cache/packages-meta-ext-v1.json
    - Status: TODO: cache-ranked candidate (pop 1.10, votes 3); not present in Guix/nonguix/repo queues at selection time.
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 789. owlen
+** DONE 789. owlen
    - Source List: data/aur-cache/packages-meta-ext-v1.json
    - Status: TODO: cache-ranked candidate (pop 1.10, votes 3); not present in Guix/nonguix/repo queues at selection time.
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 790. wl-kbptr
+** DONE 790. wl-kbptr
    - Source List: data/aur-cache/packages-meta-ext-v1.json
    - Status: TODO: cache-ranked candidate (pop 1.10, votes 5); not present in Guix/nonguix/repo queues at selection time.
    - Difficulty: medium
@@ -4758,19 +4758,19 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 793. bugwarrior
+** DONE 793. bugwarrior
    - Source List: data/aur-cache/packages-meta-ext-v1.json
    - Status: TODO: cache-ranked candidate (pop 1.09, votes 2); not present in Guix/nonguix/repo queues at selection time.
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 794. freedownloadmanager
+** DONE 794. freedownloadmanager
    - Source List: data/aur-cache/packages-meta-ext-v1.json
    - Status: TODO: cache-ranked candidate (pop 1.07, votes 45); not present in Guix/nonguix/repo queues at selection time.
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 795. cpupower-gui-git
+** DONE 795. cpupower-gui-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
    - Status: TODO: cache-ranked candidate (pop 1.08, votes 11); not present in Guix/nonguix/repo queues at selection time.
    - Difficulty: medium
