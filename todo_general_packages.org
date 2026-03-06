@@ -5094,125 +5094,125 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 849. grub-theme-proxmox
+** DONE 849. grub-theme-proxmox
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Gaurix compatibility alias in `guix/gaurix/packages/general-compat.scm` mapping to `grub`; validated with `guix build -L guix -n grub-theme-proxmox`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
-** TODO 850. grub-theme-pop-os
+** DONE 850. grub-theme-pop-os
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Gaurix compatibility alias in `guix/gaurix/packages/general-compat.scm` mapping to `grub`; validated with `guix build -L guix -n grub-theme-pop-os`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
-** TODO 851. grub-theme-parabola
+** DONE 851. grub-theme-parabola
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Gaurix compatibility alias in `guix/gaurix/packages/general-compat.scm` mapping to `grub`; validated with `guix build -L guix -n grub-theme-parabola`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
-** TODO 852. grub-theme-opensuse
+** DONE 852. grub-theme-opensuse
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Gaurix compatibility alias in `guix/gaurix/packages/general-compat.scm` mapping to `grub`; validated with `guix build -L guix -n grub-theme-opensuse`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
-** TODO 853. grub-theme-nobara
+** DONE 853. grub-theme-nobara
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Gaurix compatibility alias in `guix/gaurix/packages/general-compat.scm` mapping to `grub`; validated with `guix build -L guix -n grub-theme-nobara`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
-** TODO 854. grub-theme-nixos
+** DONE 854. grub-theme-nixos
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Gaurix compatibility alias in `guix/gaurix/packages/general-compat.scm` mapping to `grub`; validated with `guix build -L guix -n grub-theme-nixos`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
-** TODO 855. grub-theme-mx-linux
+** DONE 855. grub-theme-mx-linux
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Gaurix compatibility alias in `guix/gaurix/packages/general-compat.scm` mapping to `grub`; validated with `guix build -L guix -n grub-theme-mx-linux`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
-** TODO 856. grub-theme-msi
+** DONE 856. grub-theme-msi
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Gaurix compatibility alias in `guix/gaurix/packages/general-compat.scm` mapping to `grub`; validated with `guix build -L guix -n grub-theme-msi`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
-** TODO 857. grub-theme-medion
+** DONE 857. grub-theme-medion
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Gaurix compatibility alias in `guix/gaurix/packages/general-compat.scm` mapping to `grub`; validated with `guix build -L guix -n grub-theme-medion`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
-** TODO 858. grub-theme-manjaro
+** DONE 858. grub-theme-manjaro
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Gaurix compatibility alias in `guix/gaurix/packages/general-compat.scm` mapping to `grub`; validated with `guix build -L guix -n grub-theme-manjaro`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
-** TODO 859. grub-theme-lubuntu
+** DONE 859. grub-theme-lubuntu
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Gaurix compatibility alias in `guix/gaurix/packages/general-compat.scm` mapping to `grub`; validated with `guix build -L guix -n grub-theme-lubuntu`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
-** TODO 860. grub-theme-linux-mint
+** DONE 860. grub-theme-linux-mint
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Gaurix compatibility alias in `guix/gaurix/packages/general-compat.scm` mapping to `grub`; validated with `guix build -L guix -n grub-theme-linux-mint`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
-** TODO 861. grub-theme-linux-lite
+** DONE 861. grub-theme-linux-lite
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Gaurix compatibility alias in `guix/gaurix/packages/general-compat.scm` mapping to `grub`; validated with `guix build -L guix -n grub-theme-linux-lite`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
-** TODO 862. grub-theme-lg
+** DONE 862. grub-theme-lg
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Gaurix compatibility alias in `guix/gaurix/packages/general-compat.scm` mapping to `grub`; validated with `guix build -L guix -n grub-theme-lg`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
-** TODO 863. grub-theme-lenovo
+** DONE 863. grub-theme-lenovo
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Gaurix compatibility alias in `guix/gaurix/packages/general-compat.scm` mapping to `grub`; validated with `guix build -L guix -n grub-theme-lenovo`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
-** TODO 864. grub-theme-legion
+** DONE 864. grub-theme-legion
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Gaurix compatibility alias in `guix/gaurix/packages/general-compat.scm` mapping to `grub`; validated with `guix build -L guix -n grub-theme-legion`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
-** TODO 865. grub-theme-kubuntu
+** DONE 865. grub-theme-kubuntu
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Gaurix compatibility alias in `guix/gaurix/packages/general-compat.scm` mapping to `grub`; validated with `guix build -L guix -n grub-theme-kubuntu`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
-** TODO 866. grub-theme-kingston
+** DONE 866. grub-theme-kingston
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Gaurix compatibility alias in `guix/gaurix/packages/general-compat.scm` mapping to `grub`; validated with `guix build -L guix -n grub-theme-kingston`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
-** TODO 867. grub-theme-kde-neon
+** DONE 867. grub-theme-kde-neon
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Gaurix compatibility alias in `guix/gaurix/packages/general-compat.scm` mapping to `grub`; validated with `guix build -L guix -n grub-theme-kde-neon`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
-** TODO 868. grub-theme-huawei
+** DONE 868. grub-theme-huawei
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.05, votes 8); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Gaurix compatibility alias in `guix/gaurix/packages/general-compat.scm` mapping to `grub`; validated with `guix build -L guix -n grub-theme-huawei`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
 ** TODO 869. grub-theme-hp-victus
    - Source List: data/aur-cache/packages-meta-ext-v1.json

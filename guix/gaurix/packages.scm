@@ -198,4 +198,24 @@
             grub-theme-slackware
             grub-theme-samsung
             grub-theme-rocky-linux
-            grub-theme-razer))
+            grub-theme-razer
+            grub-theme-proxmox
+            grub-theme-pop-os
+            grub-theme-parabola
+            grub-theme-opensuse
+            grub-theme-nobara
+            grub-theme-nixos
+            grub-theme-mx-linux
+            grub-theme-msi
+            grub-theme-medion
+            grub-theme-manjaro
+            grub-theme-lubuntu
+            grub-theme-linux-mint
+            grub-theme-linux-lite
+            grub-theme-lg
+            grub-theme-lenovo
+            grub-theme-legion
+            grub-theme-kubuntu
+            grub-theme-kingston
+            grub-theme-kde-neon
+            grub-theme-huawei))

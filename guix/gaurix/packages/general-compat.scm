@@ -205,7 +205,27 @@
             grub-theme-slackware
             grub-theme-samsung
             grub-theme-rocky-linux
-            grub-theme-razer))
+            grub-theme-razer
+            grub-theme-proxmox
+            grub-theme-pop-os
+            grub-theme-parabola
+            grub-theme-opensuse
+            grub-theme-nobara
+            grub-theme-nixos
+            grub-theme-mx-linux
+            grub-theme-msi
+            grub-theme-medion
+            grub-theme-manjaro
+            grub-theme-lubuntu
+            grub-theme-linux-mint
+            grub-theme-linux-lite
+            grub-theme-lg
+            grub-theme-lenovo
+            grub-theme-legion
+            grub-theme-kubuntu
+            grub-theme-kingston
+            grub-theme-kde-neon
+            grub-theme-huawei))
 
 (define-public gtk2
   (package
@@ -1077,3 +1097,103 @@
   (package
     (inherit grub)
     (name "grub-theme-razer")))
+
+(define-public grub-theme-proxmox
+  (package
+    (inherit grub)
+    (name "grub-theme-proxmox")))
+
+(define-public grub-theme-pop-os
+  (package
+    (inherit grub)
+    (name "grub-theme-pop-os")))
+
+(define-public grub-theme-parabola
+  (package
+    (inherit grub)
+    (name "grub-theme-parabola")))
+
+(define-public grub-theme-opensuse
+  (package
+    (inherit grub)
+    (name "grub-theme-opensuse")))
+
+(define-public grub-theme-nobara
+  (package
+    (inherit grub)
+    (name "grub-theme-nobara")))
+
+(define-public grub-theme-nixos
+  (package
+    (inherit grub)
+    (name "grub-theme-nixos")))
+
+(define-public grub-theme-mx-linux
+  (package
+    (inherit grub)
+    (name "grub-theme-mx-linux")))
+
+(define-public grub-theme-msi
+  (package
+    (inherit grub)
+    (name "grub-theme-msi")))
+
+(define-public grub-theme-medion
+  (package
+    (inherit grub)
+    (name "grub-theme-medion")))
+
+(define-public grub-theme-manjaro
+  (package
+    (inherit grub)
+    (name "grub-theme-manjaro")))
+
+(define-public grub-theme-lubuntu
+  (package
+    (inherit grub)
+    (name "grub-theme-lubuntu")))
+
+(define-public grub-theme-linux-mint
+  (package
+    (inherit grub)
+    (name "grub-theme-linux-mint")))
+
+(define-public grub-theme-linux-lite
+  (package
+    (inherit grub)
+    (name "grub-theme-linux-lite")))
+
+(define-public grub-theme-lg
+  (package
+    (inherit grub)
+    (name "grub-theme-lg")))
+
+(define-public grub-theme-lenovo
+  (package
+    (inherit grub)
+    (name "grub-theme-lenovo")))
+
+(define-public grub-theme-legion
+  (package
+    (inherit grub)
+    (name "grub-theme-legion")))
+
+(define-public grub-theme-kubuntu
+  (package
+    (inherit grub)
+    (name "grub-theme-kubuntu")))
+
+(define-public grub-theme-kingston
+  (package
+    (inherit grub)
+    (name "grub-theme-kingston")))
+
+(define-public grub-theme-kde-neon
+  (package
+    (inherit grub)
+    (name "grub-theme-kde-neon")))
+
+(define-public grub-theme-huawei
+  (package
+    (inherit grub)
+    (name "grub-theme-huawei")))
