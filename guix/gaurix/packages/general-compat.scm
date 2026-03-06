@@ -57,6 +57,7 @@
   #:use-module (gnu packages solidity)
   #:use-module (gnu packages check)
   #:use-module (gnu packages audio)
+  #:use-module (gnu packages bootloaders)
   #:export (gtk2 gnu-netcat qt5-webengine python312 openssl-1.1
             yt-dlp-git ripgrep-git fd-git eza-git zoxide-git shellcheck-bin
             xlibre-xserver xlibre-xserver-bootstrap xlibre-xserver-xnest xlibre-xserver-xephyr xlibre-xserver-devel xlibre-xserver-common xlibre-xserver-xvfb qt5-remoteobjects qt5-webchannel qt5-websockets
@@ -184,7 +185,27 @@
             python-torchvision-rocm
             adw-gtk-theme-git
             qt5-charts
-            perl-file-rename))
+            perl-file-rename
+            grub-theme-zorin-os
+            grub-theme-xero-linux
+            grub-theme-windows-11
+            grub-theme-windows-10
+            grub-theme-void-linux
+            grub-theme-ventoy
+            grub-theme-vanilla-os
+            grub-theme-vaio
+            grub-theme-ultramarine
+            grub-theme-ubuntu-mate
+            grub-theme-ubuntu
+            grub-theme-toshiba
+            grub-theme-thinkpad
+            grub-theme-system76
+            grub-theme-supermicro
+            grub-theme-solus
+            grub-theme-slackware
+            grub-theme-samsung
+            grub-theme-rocky-linux
+            grub-theme-razer))
 
 (define-public gtk2
   (package
@@ -955,3 +976,104 @@
   (package
     (inherit rename)
     (name "perl-file-rename")))
+
+;; Grub theme compatibility aliases
+(define-public grub-theme-zorin-os
+  (package
+    (inherit grub)
+    (name "grub-theme-zorin-os")))
+
+(define-public grub-theme-xero-linux
+  (package
+    (inherit grub)
+    (name "grub-theme-xero-linux")))
+
+(define-public grub-theme-windows-11
+  (package
+    (inherit grub)
+    (name "grub-theme-windows-11")))
+
+(define-public grub-theme-windows-10
+  (package
+    (inherit grub)
+    (name "grub-theme-windows-10")))
+
+(define-public grub-theme-void-linux
+  (package
+    (inherit grub)
+    (name "grub-theme-void-linux")))
+
+(define-public grub-theme-ventoy
+  (package
+    (inherit grub)
+    (name "grub-theme-ventoy")))
+
+(define-public grub-theme-vanilla-os
+  (package
+    (inherit grub)
+    (name "grub-theme-vanilla-os")))
+
+(define-public grub-theme-vaio
+  (package
+    (inherit grub)
+    (name "grub-theme-vaio")))
+
+(define-public grub-theme-ultramarine
+  (package
+    (inherit grub)
+    (name "grub-theme-ultramarine")))
+
+(define-public grub-theme-ubuntu-mate
+  (package
+    (inherit grub)
+    (name "grub-theme-ubuntu-mate")))
+
+(define-public grub-theme-ubuntu
+  (package
+    (inherit grub)
+    (name "grub-theme-ubuntu")))
+
+(define-public grub-theme-toshiba
+  (package
+    (inherit grub)
+    (name "grub-theme-toshiba")))
+
+(define-public grub-theme-thinkpad
+  (package
+    (inherit grub)
+    (name "grub-theme-thinkpad")))
+
+(define-public grub-theme-system76
+  (package
+    (inherit grub)
+    (name "grub-theme-system76")))
+
+(define-public grub-theme-supermicro
+  (package
+    (inherit grub)
+    (name "grub-theme-supermicro")))
+
+(define-public grub-theme-solus
+  (package
+    (inherit grub)
+    (name "grub-theme-solus")))
+
+(define-public grub-theme-slackware
+  (package
+    (inherit grub)
+    (name "grub-theme-slackware")))
+
+(define-public grub-theme-samsung
+  (package
+    (inherit grub)
+    (name "grub-theme-samsung")))
+
+(define-public grub-theme-rocky-linux
+  (package
+    (inherit grub)
+    (name "grub-theme-rocky-linux")))
+
+(define-public grub-theme-razer
+  (package
+    (inherit grub)
+    (name "grub-theme-razer")))

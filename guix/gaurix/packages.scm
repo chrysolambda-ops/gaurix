@@ -178,4 +178,24 @@
             python-torchvision-rocm
             adw-gtk-theme-git
             qt5-charts
-            perl-file-rename))
+            perl-file-rename
+            grub-theme-zorin-os
+            grub-theme-xero-linux
+            grub-theme-windows-11
+            grub-theme-windows-10
+            grub-theme-void-linux
+            grub-theme-ventoy
+            grub-theme-vanilla-os
+            grub-theme-vaio
+            grub-theme-ultramarine
+            grub-theme-ubuntu-mate
+            grub-theme-ubuntu
+            grub-theme-toshiba
+            grub-theme-thinkpad
+            grub-theme-system76
+            grub-theme-supermicro
+            grub-theme-solus
+            grub-theme-slackware
+            grub-theme-samsung
+            grub-theme-rocky-linux
+            grub-theme-razer))
