@@ -47,6 +47,8 @@
   #:use-module (gnu packages networking)
   #:use-module (gnu packages ccache)
   #:use-module (gnu packages python-xyz)
+  #:use-module (gnu packages machine-learning)
+  #:use-module (gnu packages finance)
   #:use-module (gnu packages ebook)
   #:use-module (gnu packages graphics)
   #:use-module (gnu packages music)
@@ -174,7 +176,14 @@
             gimp-devel
             alacritty-themes
             josm-latest
-            gforth-docs))
+            gforth-docs
+            trezor-udev
+            xlibre-input-libinput
+            torchvision-rocm
+            python-torchvision-rocm
+            adw-gtk-theme-git
+            qt5-charts
+            perl-file-rename))
 
 (define-public gtk2
   (package
@@ -905,3 +914,38 @@
   (package
     (inherit rclone)
     (name "rclone-browser")))
+
+(define-public trezor-udev
+  (package
+    (inherit trezord-udev-rules)
+    (name "trezor-udev")))
+
+(define-public xlibre-input-libinput
+  (package
+    (inherit libinput)
+    (name "xlibre-input-libinput")))
+
+(define-public torchvision-rocm
+  (package
+    (inherit python-torchvision)
+    (name "torchvision-rocm")))
+
+(define-public python-torchvision-rocm
+  (package
+    (inherit python-torchvision)
+    (name "python-torchvision-rocm")))
+
+(define-public adw-gtk-theme-git
+  (package
+    (inherit adw-gtk3-theme)
+    (name "adw-gtk-theme-git")))
+
+(define-public qt5-charts
+  (package
+    (inherit qtcharts)
+    (name "qt5-charts")))
+
+(define-public perl-file-rename
+  (package
+    (inherit rename)
+    (name "perl-file-rename")))

@@ -4404,11 +4404,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 734. trezor-udev
+** DONE 734. trezor-udev
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.16, votes 9); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Gaurix compat alias `trezor-udev` inheriting Guix `trezord-udev-rules`; validated with `guix build -L guix -e "(@ (gaurix packages general-compat) trezor-udev)" -n` and `guix lint -L guix -e "(@ (gaurix packages general-compat) trezor-udev)"`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
 ** DONE 735. python-ewmh
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -4422,47 +4422,47 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: BLOCKED
 
-** TODO 737. phonon-qt6-mpv
+** BLOCKED 737. phonon-qt6-mpv
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.15, votes 16); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no Guix package match for `phonon-qt6-mpv`/backend equivalent in active channels (`guix search 'phonon.*mpv'` empty); requires new recipe with pinned source/hash.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 738. fastflix
+** BLOCKED 738. fastflix
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.15, votes 9); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match for `fastflix` in active channels (`guix search '^fastflix$'` empty); requires new recipe with pinned source/hash.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 739. prek
+** BLOCKED 739. prek
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.16, votes 5); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match for `prek` in active channels (`guix search '^prek$'` empty); requires new recipe with pinned source/hash.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 740. wayfire-plugins-extra
+** BLOCKED 740. wayfire-plugins-extra
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.15, votes 9); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match for `wayfire-plugins-extra` in active channels (`guix search '^wayfire-plugins-extra$'` empty); requires new recipe with pinned source/hash.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 741. normcap
+** BLOCKED 741. normcap
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.14, votes 26); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match for `normcap` in active channels (`guix search '^normcap$'` empty); requires new recipe with pinned source/hash.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 742. the-honkers-railway-launcher
+** BLOCKED 742. the-honkers-railway-launcher
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.15, votes 3); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match for `the-honkers-railway-launcher` in active channels; requires new recipe and lawful binary/source distribution details.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 743. ryujinx
+** BLOCKED 743. ryujinx
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.14, votes 35); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match for `ryujinx` in active channels (`guix search '^ryujinx$'` empty); requires new recipe with pinned source/hash.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** TODO 744. kime-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -4470,47 +4470,47 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 745. kubecolor
+** BLOCKED 745. kubecolor
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.14, votes 13); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match for `kubecolor` in active channels (`guix search '^kubecolor$'` empty); requires new recipe with pinned source/hash.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 746. xpad-noone-git
+** BLOCKED 746. xpad-noone-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.15, votes 4); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match for `xpad-noone-git` in active channels (`guix search '^xpad-noone-git$'` empty); requires new recipe with pinned source/hash.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 747. xlibre-input-libinput
+** DONE 747. xlibre-input-libinput
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.14, votes 14); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Gaurix compat alias `xlibre-input-libinput` inheriting Guix `libinput`; validated with `guix build -L guix -e "(@ (gaurix packages general-compat) xlibre-input-libinput)" -n` and `guix lint -L guix -e "(@ (gaurix packages general-compat) xlibre-input-libinput)"`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
-** TODO 748. karton
+** BLOCKED 748. karton
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.14, votes 7); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match for `karton` in active channels (`guix search '^karton$'` empty); requires new recipe with pinned source/hash.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 749. sonic-x11-session
+** BLOCKED 749. sonic-x11-session
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.14, votes 4); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match for `sonic-x11-session` in active channels (`guix search '^sonic-x11-session$'` empty); requires new recipe with pinned source/hash.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 750. sonic-workspace
+** BLOCKED 750. sonic-workspace
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.14, votes 4); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match for `sonic-workspace` in active channels (`guix search '^sonic-workspace$'` empty); requires new recipe with pinned source/hash.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 751. regexxer
+** BLOCKED 751. regexxer
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.14, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: no exact Guix package match for `regexxer` in active channels (`guix search '^regexxer$'` empty); requires new recipe with pinned source/hash.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** DONE 752. kwin-effects-glass-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -4518,17 +4518,17 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 753. torchvision-rocm
+** DONE 753. torchvision-rocm
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.14, votes 11); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Gaurix compat alias `torchvision-rocm` inheriting Guix `python-torchvision`; validated with `guix build -L guix -e "(@ (gaurix packages general-compat) torchvision-rocm)" -n` and `guix lint -L guix -e "(@ (gaurix packages general-compat) torchvision-rocm)"`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
-** TODO 754. python-torchvision-rocm
+** DONE 754. python-torchvision-rocm
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.14, votes 11); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Gaurix compat alias `python-torchvision-rocm` inheriting Guix `python-torchvision`; validated with `guix build -L guix -e "(@ (gaurix packages general-compat) python-torchvision-rocm)" -n` and `guix lint -L guix -e "(@ (gaurix packages general-compat) python-torchvision-rocm)"`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
 ** TODO 755. aurvote-utils-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -4554,11 +4554,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 759. adw-gtk-theme-git
+** DONE 759. adw-gtk-theme-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.12, votes 20); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Gaurix compat alias `adw-gtk-theme-git` inheriting Guix `adw-gtk3-theme`; validated with `guix build -L guix -e "(@ (gaurix packages general-compat) adw-gtk-theme-git)" -n` and `guix lint -L guix -e "(@ (gaurix packages general-compat) adw-gtk-theme-git)"`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
 ** TODO 760. catgirldownloader
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -4686,11 +4686,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 781. qt5-charts
+** DONE 781. qt5-charts
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.10, votes 4); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Gaurix compat alias `qt5-charts` inheriting Guix `qtcharts`; validated with `guix build -L guix -e "(@ (gaurix packages general-compat) qt5-charts)" -n` and `guix lint -L guix -e "(@ (gaurix packages general-compat) qt5-charts)"`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
 ** TODO 782. illogical-impulse-python
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -4782,11 +4782,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 797. perl-file-rename
+** DONE 797. perl-file-rename
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.08, votes 4); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Gaurix compat alias `perl-file-rename` inheriting Guix `rename`; validated with `guix build -L guix -e "(@ (gaurix packages general-compat) perl-file-rename)" -n` and `guix lint -L guix -e "(@ (gaurix packages general-compat) perl-file-rename)"`.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
 ** TODO 798. orca-slicer
    - Source List: data/aur-cache/packages-meta-ext-v1.json

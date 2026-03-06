@@ -170,4 +170,11 @@
             python-argparse-from-file
             python-ewmh
             python-transmission-rpc
-            python-proton-client))
+            python-proton-client
+            trezor-udev
+            xlibre-input-libinput
+            torchvision-rocm
+            python-torchvision-rocm
+            adw-gtk-theme-git
+            qt5-charts
+            perl-file-rename))
