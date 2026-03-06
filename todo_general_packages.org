@@ -5508,9 +5508,9 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 918. python-steam
+** DONE 918. python-steam
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.02, votes 37); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Python package definition in guix/gaurix/packages/python-queue-20260306.scm; validated with `guix build -L guix -n python-steam` and `guix lint -L guix python-steam`.
    - Difficulty: medium
    - TODO Status: DONE
 
@@ -5556,9 +5556,9 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 926. python-argdispatch
+** DONE 926. python-argdispatch
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.12, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Python package definition in guix/gaurix/packages/python-queue-20260306.scm; validated with `guix build -L guix -n python-argdispatch` and `guix lint -L guix python-argdispatch`.
    - Difficulty: medium
    - TODO Status: DONE
 
@@ -6030,9 +6030,9 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1005. python-dataclasses-json
+** DONE 1005. python-dataclasses-json
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 6); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Python package definition in guix/gaurix/packages/python-queue-20260306.scm; validated with `guix build -L guix -n python-dataclasses-json` and `guix lint -L guix python-dataclasses-json`.
    - Difficulty: medium
    - TODO Status: DONE
 
@@ -6120,15 +6120,15 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1020. python-survey
+** DONE 1020. python-survey
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 6); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Python package definition in guix/gaurix/packages/python-queue-20260306.scm; validated with `guix build -L guix -n python-survey` and `guix lint -L guix python-survey`.
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1021. python-pyro5
+** DONE 1021. python-pyro5
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 6); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Python package definition in guix/gaurix/packages/python-queue-20260306.scm; validated with `guix build -L guix -n python-pyro5` and `guix lint -L guix python-pyro5`.
    - Difficulty: medium
    - TODO Status: DONE
 
@@ -6156,9 +6156,9 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1026. python-desktop-notifier
+** DONE 1026. python-desktop-notifier
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 5); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Python package definition in guix/gaurix/packages/python-queue-20260306.scm; validated with `guix build -L guix -n python-desktop-notifier` and `guix lint -L guix python-desktop-notifier`.
    - Difficulty: medium
    - TODO Status: DONE
 
@@ -6594,9 +6594,9 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1099. python-unoserver
+** DONE 1099. python-unoserver
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Python package definition in guix/gaurix/packages/python-queue-20260306.scm; validated with `guix build -L guix -n python-unoserver` and `guix lint -L guix python-unoserver`.
    - Difficulty: medium
    - TODO Status: DONE
 
@@ -6606,27 +6606,27 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1101. python-smooth
+** DONE 1101. python-smooth
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Python package definition in guix/gaurix/packages/python-queue-20260306.scm; validated with `guix build -L guix -n python-smooth` and `guix lint -L guix python-smooth`.
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1102. python-niripy
+** DONE 1102. python-niripy
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Python package definition in guix/gaurix/packages/python-queue-20260306.scm; validated with `guix build -L guix -n python-niripy` and `guix lint -L guix python-niripy`.
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1103. python-meteostat
+** DONE 1103. python-meteostat
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Python package definition in guix/gaurix/packages/python-queue-20260306.scm; validated with `guix build -L guix -n python-meteostat` and `guix lint -L guix python-meteostat`.
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1104. python-ci-info
+** DONE 1104. python-ci-info
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Python package definition in guix/gaurix/packages/python-queue-20260306.scm; validated with `guix build -L guix -n python-ci-info` and `guix lint -L guix python-ci-info`.
    - Difficulty: medium
    - TODO Status: DONE
 
@@ -9528,9 +9528,9 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1588. python-primp
+** DONE 1588. python-primp
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.13, votes 4); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Python package definition in guix/gaurix/packages/python-queue-20260306.scm; validated with `guix build -L guix -n python-primp` and `guix lint -L guix python-primp`.
    - Difficulty: medium
    - TODO Status: DONE
 
@@ -9588,9 +9588,9 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1598. python-duckduckgo-search
+** DONE 1598. python-duckduckgo-search
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.11, votes 4); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Python package definition in guix/gaurix/packages/python-queue-20260306.scm; validated with `guix build -L guix -n python-duckduckgo-search` and `guix lint -L guix python-duckduckgo-search`.
    - Difficulty: medium
    - TODO Status: DONE
 
@@ -9984,9 +9984,9 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1664. python-hwdata
+** DONE 1664. python-hwdata
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Python package definition in guix/gaurix/packages/python-queue-20260306.scm; validated with `guix build -L guix -n python-hwdata` and `guix lint -L guix python-hwdata`.
    - Difficulty: medium
    - TODO Status: DONE
 
@@ -11958,15 +11958,15 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1993. python-markitdown
+** DONE 1993. python-markitdown
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked AUR candidate (popularity 1.076, votes 2); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Status: DONE: Added Python package definition in guix/gaurix/packages/python-queue-20260306.scm; validated with `guix build -L guix -n python-markitdown` and `guix lint -L guix python-markitdown`.
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1994. python-python-ffmpeg
+** DONE 1994. python-python-ffmpeg
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked AUR candidate (popularity 1.074, votes 3); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Status: DONE: Added Python package definition in guix/gaurix/packages/python-queue-20260306.scm; validated with `guix build -L guix -n python-python-ffmpeg` and `guix lint -L guix python-python-ffmpeg`.
    - Difficulty: medium
    - TODO Status: DONE
 
@@ -12048,9 +12048,9 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 2008. python-lsp-tree-sitter
+** DONE 2008. python-lsp-tree-sitter
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked AUR candidate (popularity 1.356, votes 4); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Status: DONE: Added Python package definition in guix/gaurix/packages/python-queue-20260306.scm; validated with `guix build -L guix -n python-lsp-tree-sitter` and `guix lint -L guix python-lsp-tree-sitter`.
    - Difficulty: medium
    - TODO Status: DONE
 
@@ -12270,9 +12270,9 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 2045. python-torrequest
+** DONE 2045. python-torrequest
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked AUR candidate (popularity 1.012, votes 12); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Status: DONE: Added Python package definition in guix/gaurix/packages/python-queue-20260306.scm; validated with `guix build -L guix -n python-torrequest` and `guix lint -L guix python-torrequest`.
    - Difficulty: medium
    - TODO Status: DONE
 
@@ -12282,9 +12282,9 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 2047. python-pyamdgpuinfo
+** DONE 2047. python-pyamdgpuinfo
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked AUR candidate (popularity 1.010, votes 7); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Status: DONE: Added Python package definition in guix/gaurix/packages/python-queue-20260306.scm; validated with `guix build -L guix -n python-pyamdgpuinfo` and `guix lint -L guix python-pyamdgpuinfo`.
    - Difficulty: medium
    - TODO Status: DONE
 
@@ -12354,9 +12354,9 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 2059. python-diagrams
+** DONE 2059. python-diagrams
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked AUR candidate (popularity 1.005, votes 5); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Status: DONE: Added Python package definition in guix/gaurix/packages/python-queue-20260306.scm; validated with `guix build -L guix -n python-diagrams` and `guix lint -L guix python-diagrams`.
    - Difficulty: medium
    - TODO Status: DONE
 

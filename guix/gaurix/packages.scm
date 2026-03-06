@@ -13,6 +13,7 @@
   #:use-module (gaurix packages general-compat)
   #:use-module (gaurix packages ffglitch)
   #:use-module (gaurix packages python-compat)
+  #:use-module (gaurix packages python-queue-20260306)
   #:use-module (gaurix packages plymouth-themes-compat)
   #:export (
             localsend-bin
@@ -173,6 +174,26 @@
             python-ewmh
             python-transmission-rpc
             python-proton-client
+            python-diagrams
+            python-pyamdgpuinfo
+            python-torrequest
+            python-lsp-tree-sitter
+            python-python-ffmpeg
+            python-markitdown
+            python-hwdata
+            python-duckduckgo-search
+            python-primp
+            python-ci-info
+            python-meteostat
+            python-niripy
+            python-smooth
+            python-unoserver
+            python-desktop-notifier
+            python-pyro5
+            python-survey
+            python-dataclasses-json
+            python-argdispatch
+            python-steam
             trezor-udev
             xlibre-input-libinput
             torchvision-rocm
