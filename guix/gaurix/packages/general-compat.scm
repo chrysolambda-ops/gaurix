@@ -164,6 +164,7 @@
             libadwaita-without-adwaita
             pulseaudio-ctl
             ares-emu
+            ares-emu-git
             libwacom-surface
             xpadneo-dkms-git
             pidgin-mini
@@ -844,6 +845,11 @@
   (package
     (inherit (specification->package "ares"))
     (name "ares-emu")))
+
+(define-public ares-emu-git
+  (package
+    (inherit (specification->package "ares"))
+    (name "ares-emu-git")))
 
 (define-public libwacom-surface
   (package

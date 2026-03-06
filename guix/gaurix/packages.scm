@@ -153,6 +153,7 @@
             libadwaita-without-adwaita
             pulseaudio-ctl
             ares-emu
+            ares-emu-git
             libwacom-surface
             xpadneo-dkms-git
             pidgin-mini

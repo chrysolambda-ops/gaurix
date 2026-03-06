@@ -4128,29 +4128,29 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: BLOCKED
 
-** TODO 688. jrnlc
+** BLOCKED 688. jrnlc
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.23, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: No corresponding package found in current Guix set (`guix package -A`), and Guix has no AUR importer (`guix import`); requires manual upstream-source packaging.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 689. whyis-git
+** BLOCKED 689. whyis-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.23, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: No corresponding package found in current Guix set (`guix package -A`), and Guix has no AUR importer (`guix import`); requires manual upstream-source packaging.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 690. whyis
+** BLOCKED 690. whyis
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.23, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: No corresponding package found in current Guix set (`guix package -A`), and Guix has no AUR importer (`guix import`); requires manual upstream-source packaging.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 691. plasma6-applets-thermal-monitor-git
+** BLOCKED 691. plasma6-applets-thermal-monitor-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.20, votes 63); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: No corresponding package found in current Guix set (`guix package -A`), and Guix has no AUR importer (`guix import`); requires manual upstream-source packaging.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** BLOCKED 692. mpv-full
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -4398,11 +4398,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: BLOCKED
 
-** TODO 733. ktailctl
+** BLOCKED 733. ktailctl
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.17, votes 7); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: No corresponding package found in current Guix set (`guix package -A`), and Guix has no AUR importer (`guix import`); requires manual upstream-source packaging.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** DONE 734. trezor-udev
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -4464,11 +4464,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: BLOCKED
 
-** TODO 744. kime-git
+** BLOCKED 744. kime-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.15, votes 5); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: No corresponding package found in current Guix set (`guix package -A`), and Guix has no AUR importer (`guix import`); requires manual upstream-source packaging.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** BLOCKED 745. kubecolor
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -4530,29 +4530,29 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 755. aurvote-utils-git
+** BLOCKED 755. aurvote-utils-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.13, votes 13); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: No corresponding package found in current Guix set (`guix package -A`), and Guix has no AUR importer (`guix import`); requires manual upstream-source packaging.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 756. tomb-kdf
+** BLOCKED 756. tomb-kdf
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.11, votes 60); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: No corresponding package found in current Guix set (`guix package -A`), and Guix has no AUR importer (`guix import`); requires manual upstream-source packaging.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 757. ttf-vista-fonts
+** BLOCKED 757. ttf-vista-fonts
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 0.92, votes 438); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: No corresponding package found in current Guix set (`guix package -A`), and Guix has no AUR importer (`guix import`); requires manual upstream-source packaging.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 758. depot-tools-git
+** BLOCKED 758. depot-tools-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.09, votes 91); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: No corresponding package found in current Guix set (`guix package -A`), and Guix has no AUR importer (`guix import`); requires manual upstream-source packaging.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** DONE 759. adw-gtk-theme-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -4560,29 +4560,29 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 760. catgirldownloader
+** BLOCKED 760. catgirldownloader
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.13, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: No corresponding package found in current Guix set (`guix package -A`), and Guix has no AUR importer (`guix import`); requires manual upstream-source packaging.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 761. lektra-git
+** BLOCKED 761. lektra-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.13, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: No corresponding package found in current Guix set (`guix package -A`), and Guix has no AUR importer (`guix import`); requires manual upstream-source packaging.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 762. libggml
+** BLOCKED 762. libggml
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.13, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: No corresponding package found in current Guix set (`guix package -A`), and Guix has no AUR importer (`guix import`); requires manual upstream-source packaging.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 763. ttf-xenia
+** BLOCKED 763. ttf-xenia
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.13, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: No corresponding package found in current Guix set (`guix package -A`), and Guix has no AUR importer (`guix import`); requires manual upstream-source packaging.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** DONE 764. papirus-icon-theme-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -4590,29 +4590,29 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 765. libopenrazer
+** BLOCKED 765. libopenrazer
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.12, votes 11); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: No corresponding package found in current Guix set (`guix package -A`), and Guix has no AUR importer (`guix import`); requires manual upstream-source packaging.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 766. ventoy
+** BLOCKED 766. ventoy
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.10, votes 51); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: No corresponding package found in current Guix set (`guix package -A`), and Guix has no AUR importer (`guix import`); requires manual upstream-source packaging.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 767. hytale-f2p-git
+** BLOCKED 767. hytale-f2p-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.12, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: No corresponding package found in current Guix set (`guix package -A`), and Guix has no AUR importer (`guix import`); requires manual upstream-source packaging.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
-** TODO 768. tty-clock
+** BLOCKED 768. tty-clock
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.07, votes 114); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: No corresponding package found in current Guix set (`guix package -A`), and Guix has no AUR importer (`guix import`); requires manual upstream-source packaging.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** DONE 769. gtkmm-docs
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -4620,11 +4620,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 770. all-repository-fonts
+** BLOCKED 770. all-repository-fonts
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.10, votes 46); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: No corresponding package found in current Guix set (`guix package -A`), and Guix has no AUR importer (`guix import`); requires manual upstream-source packaging.
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: BLOCKED
 
 ** TODO 771. fcitx5-hazkey
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -8292,11 +8292,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: TODO
 
-** TODO 1382. ares-emu-git
+** DONE 1382. ares-emu-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 0.87, votes 5); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added compat alias package `ares-emu-git` in `general-compat.scm` mapped to Guix `ares`; validated module resolution via `guix repl -L guix -- /tmp/check-ares.scm` (package name/version resolved).
    - Difficulty: medium
-   - TODO Status: TODO
+   - TODO Status: DONE
 
 ** TODO 1383. metar
    - Source List: data/aur-cache/packages-meta-ext-v1.json
