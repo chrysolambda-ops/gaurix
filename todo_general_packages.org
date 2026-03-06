@@ -12011,3 +12011,603 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Status: TODO: cache-ranked AUR candidate (popularity 1.062, votes 5); filtered against Guix/nonguix and current Gaurix queues/modules.
    - Difficulty: medium
    - TODO Status: TODO
+
+** TODO 2002. sherlock-git
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.957, votes 15); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2003. pinchtab-bin
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.923, votes 2); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2004. plymouth-theme-arch-logo-symbol
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.514, votes 5); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2005. nct6687d-dkms-git
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.504, votes 20); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2006. sunshine-beta-bin
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.464, votes 4); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2007. open-android-backup
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.446, votes 2); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2008. python-lsp-tree-sitter
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.356, votes 4); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2009. vvv-bin
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.202, votes 7); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2010. datarecovery
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.120, votes 2); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2011. ddccontrol-db-git
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.059, votes 41); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2012. gddccontrol
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.059, votes 35); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2013. ddccontrol
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.059, votes 35); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2014. ipscan
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.057, votes 95); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2015. steamtinkerlaunch-git
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.056, votes 6); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2016. reboot-arch-btw
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.046, votes 11); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2017. doomseeker
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.046, votes 13); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2018. z-library-bin
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.044, votes 22); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2019. powder-toy
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.044, votes 52); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2020. jay-git
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.042, votes 4); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2021. velero
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.039, votes 6); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2022. trashy-bin
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.039, votes 2); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2023. aionui-bin
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.036, votes 2); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2024. nugget-doom
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.036, votes 4); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2025. virtio-win
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.034, votes 113); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2026. bilibili-bin
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.033, votes 29); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2027. coolercontrold-bin
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.033, votes 5); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2028. organicmaps
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.032, votes 3); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2029. synology-assistant
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.032, votes 45); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2030. aml1
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.031, votes 2); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2031. niri-git
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.030, votes 12); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2032. libuvc
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.029, votes 33); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2033. forkgram
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.028, votes 6); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2034. python-zombie-imp
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.027, votes 3); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2035. koodo-reader-bin
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.027, votes 16); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2036. pomotroid-bin
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.026, votes 13); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2037. devbox-bin
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.024, votes 2); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2038. amok-exif-sorter
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.022, votes 3); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2039. expert-git
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.021, votes 2); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2040. 010editor
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.020, votes 19); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2041. hd-idle-go
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.017, votes 10); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2042. openutau
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.014, votes 6); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2043. legcord-git
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.014, votes 4); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2044. arrpc
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.014, votes 15); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2045. python-torrequest
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.012, votes 12); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2046. chkufsd-bin
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.011, votes 2); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2047. python-pyamdgpuinfo
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.010, votes 7); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2048. zsh-theme-powerlevel10k
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.009, votes 14); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2049. sonyheadphonesclient-bluetooth-bin
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.009, votes 4); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2050. btdu-bin
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.009, votes 7); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2051. vt-cli
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.009, votes 10); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2052. web-eid-native
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.008, votes 4); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2053. web-eid-firefox
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.008, votes 4); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2054. web-eid-chrome
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.008, votes 4); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2055. xampp
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.007, votes 39); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2056. duplicati-canary-bin
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.006, votes 63); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2057. factorio-space-age
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.005, votes 11); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2058. whisper.cpp-model-base.en
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.005, votes 3); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2059. python-diagrams
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.005, votes 5); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2060. girara-git
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.005, votes 81); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2061. local-ai
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.004, votes 4); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2062. alvr
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.004, votes 29); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2063. openssl-static
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.004, votes 4); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2064. upscayl-appimage
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.003, votes 5); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2065. evince-no-gnome
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.003, votes 2); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2066. rclone-mount-service
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.002, votes 7); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2067. melonds-git
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.002, votes 16); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2068. linux-cachyos-lts-headers
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.002, votes 4); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2069. linux-cachyos-lts
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.002, votes 4); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2070. huenicorn
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.001, votes 4); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2071. openrgb-bin
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.001, votes 19); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2072. reshade-shaders-git
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.001, votes 25); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2073. lib32-libstdc++5
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.001, votes 23); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2074. avbroot
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.001, votes 5); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2075. r2modman-appimage
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.001, votes 9); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2076. ironclad-rivet-bin
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.000, votes 2); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2077. notesnook
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.000, votes 10); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2078. labwc-tweaks-git
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.000, votes 3); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2079. turso-bin
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.000, votes 3); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2080. tdarr
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.000, votes 3); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2081. sac-gui
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.000, votes 14); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2082. sac-core
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.000, votes 14); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2083. gpu-viewer
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.000, votes 41); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2084. tparted-bin
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.000, votes 2); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2085. adebar
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.000, votes 3); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2086. hurrycurry-client
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.000, votes 2); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2087. unreal-engine
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.000, votes 75); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2088. nemo-dropbox
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.000, votes 62); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2089. openarc
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.000, votes 3); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2090. zenity-gtk3
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.000, votes 7); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2091. ttf-tahoma
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.000, votes 89); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2092. xmousepasteblock
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.000, votes 5); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2093. unixbench
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.000, votes 34); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2094. myxer-git
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.000, votes 2); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2095. ccat
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.000, votes 11); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2096. 0ad-git
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.000, votes 9); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2097. 0ad-data-git
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.000, votes 9); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2098. nutstore
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.000, votes 33); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2099. thorium-reader-bin
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.000, votes 11); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2100. mujoco
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.000, votes 2); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
+
+** TODO 2101. papis-git
+   - Source List: data/aur-cache/packages-meta-ext-v1.json
+   - Status: TODO: cache-ranked AUR candidate (popularity 1.000, votes 5); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Difficulty: medium
+   - TODO Status: TODO
