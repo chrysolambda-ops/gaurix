@@ -6890,71 +6890,71 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: BLOCKED
 
-** TODO 1145. node-llama-cpp
+** BLOCKED 1145. node-llama-cpp
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: Blocked this pass: authoritative AUR HEAD is reachable and package remains unimplemented in current Guix/Gaurix sets (`guix build -L guix -n` and `guix lint -L guix` both return unknown package); full recipe translation and Guix package implementation were not completed in this queue window.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1146. nmsurf
+** BLOCKED 1146. nmsurf
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: Blocked this pass: authoritative AUR HEAD is reachable and package remains unimplemented in current Guix/Gaurix sets (`guix build -L guix -n` and `guix lint -L guix` both return unknown package); full recipe translation and Guix package implementation were not completed in this queue window.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1147. nimbsh
+** BLOCKED 1147. nimbsh
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: Blocked this pass: authoritative AUR HEAD is reachable and package remains unimplemented in current Guix/Gaurix sets (`guix build -L guix -n` and `guix lint -L guix` both return unknown package); full recipe translation and Guix package implementation were not completed in this queue window.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1148. ncmpcpp-album-cover-git
+** BLOCKED 1148. ncmpcpp-album-cover-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: Blocked this pass: authoritative AUR HEAD is reachable and package remains unimplemented in current Guix/Gaurix sets (`guix build -L guix -n` and `guix lint -L guix` both return unknown package); full recipe translation and Guix package implementation were not completed in this queue window.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1149. mupen64plus-input-raphnetraw
+** BLOCKED 1149. mupen64plus-input-raphnetraw
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: Blocked this pass: authoritative AUR HEAD is reachable and package remains unimplemented in current Guix/Gaurix sets (`guix build -L guix -n` and `guix lint -L guix` both return unknown package); full recipe translation and Guix package implementation were not completed in this queue window.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1150. mkinitcpio-contactinfo
+** BLOCKED 1150. mkinitcpio-contactinfo
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: Blocked this pass: authoritative AUR HEAD is reachable and package remains unimplemented in current Guix/Gaurix sets (`guix build -L guix -n` and `guix lint -L guix` both return unknown package); full recipe translation and Guix package implementation were not completed in this queue window.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1151. minot
+** BLOCKED 1151. minot
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: Blocked this pass: authoritative AUR HEAD is reachable and package remains unimplemented in current Guix/Gaurix sets (`guix build -L guix -n` and `guix lint -L guix` both return unknown package); full recipe translation and Guix package implementation were not completed in this queue window.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1152. mgit
+** BLOCKED 1152. mgit
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: Blocked this pass: authoritative AUR HEAD is reachable and package remains unimplemented in current Guix/Gaurix sets (`guix build -L guix -n` and `guix lint -L guix` both return unknown package); full recipe translation and Guix package implementation were not completed in this queue window.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1153. mdcat
+** BLOCKED 1153. mdcat
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: Blocked this pass: authoritative AUR HEAD is reachable and package remains unimplemented in current Guix/Gaurix sets (`guix build -L guix -n` and `guix lint -L guix` both return unknown package); full recipe translation and Guix package implementation were not completed in this queue window.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1154. limabean-harvest
+** BLOCKED 1154. limabean-harvest
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: Blocked this pass: authoritative AUR HEAD is reachable and package remains unimplemented in current Guix/Gaurix sets (`guix build -L guix -n` and `guix lint -L guix` both return unknown package); full recipe translation and Guix package implementation were not completed in this queue window.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1155. limabean
+** BLOCKED 1155. limabean
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: Blocked this pass: authoritative AUR HEAD is reachable and package remains unimplemented in current Guix/Gaurix sets (`guix build -L guix -n` and `guix lint -L guix` both return unknown package); full recipe translation and Guix package implementation were not completed in this queue window.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
 ** DONE 1156. libarchive-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -6962,59 +6962,59 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1157. kwprocessor
+** BLOCKED 1157. kwprocessor
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: Blocked this pass: authoritative AUR HEAD is reachable and package remains unimplemented in current Guix/Gaurix sets (`guix build -L guix -n` and `guix lint -L guix` both return unknown package); full recipe translation and Guix package implementation were not completed in this queue window.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1158. krunner-spotify-enhanced-git
+** BLOCKED 1158. krunner-spotify-enhanced-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: Blocked this pass: authoritative AUR HEAD is reachable and package remains unimplemented in current Guix/Gaurix sets (`guix build -L guix -n` and `guix lint -L guix` both return unknown package); full recipe translation and Guix package implementation were not completed in this queue window.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1159. krita-ai-diffusion
+** BLOCKED 1159. krita-ai-diffusion
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: Blocked this pass: authoritative AUR HEAD is reachable and package remains unimplemented in current Guix/Gaurix sets (`guix build -L guix -n` and `guix lint -L guix` both return unknown package); full recipe translation and Guix package implementation were not completed in this queue window.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1160. krep-git
+** BLOCKED 1160. krep-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: Blocked this pass: authoritative AUR HEAD is reachable and package remains unimplemented in current Guix/Gaurix sets (`guix build -L guix -n` and `guix lint -L guix` both return unknown package); full recipe translation and Guix package implementation were not completed in this queue window.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1161. klit-unstable
+** BLOCKED 1161. klit-unstable
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: Blocked this pass: authoritative AUR HEAD is reachable and package remains unimplemented in current Guix/Gaurix sets (`guix build -L guix -n` and `guix lint -L guix` both return unknown package); full recipe translation and Guix package implementation were not completed in this queue window.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1162. kevedit
+** BLOCKED 1162. kevedit
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: Blocked this pass: authoritative AUR HEAD is reachable and package remains unimplemented in current Guix/Gaurix sets (`guix build -L guix -n` and `guix lint -L guix` both return unknown package); full recipe translation and Guix package implementation were not completed in this queue window.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1163. jdwp-mcp-git
+** BLOCKED 1163. jdwp-mcp-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: Blocked this pass: authoritative AUR HEAD is reachable and package remains unimplemented in current Guix/Gaurix sets (`guix build -L guix -n` and `guix lint -L guix` both return unknown package); full recipe translation and Guix package implementation were not completed in this queue window.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1164. intel-oneapi-basekit-2025
+** BLOCKED 1164. intel-oneapi-basekit-2025
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: Blocked this pass: authoritative AUR HEAD is reachable and package remains unimplemented in current Guix/Gaurix sets (`guix build -L guix -n` and `guix lint -L guix` both return unknown package); full recipe translation and Guix package implementation were not completed in this queue window.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1165. imx471-dkms-git
+** BLOCKED 1165. imx471-dkms-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: Blocked this pass: authoritative AUR HEAD is reachable and package remains unimplemented in current Guix/Gaurix sets (`guix build -L guix -n` and `guix lint -L guix` both return unknown package); full recipe translation and Guix package implementation were not completed in this queue window.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
 ** TODO 1166. gummibbs
    - Source List: data/aur-cache/packages-meta-ext-v1.json
