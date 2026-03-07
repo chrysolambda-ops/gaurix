@@ -6362,53 +6362,53 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: BLOCKED
 
-** TODO 1057. gsender
+** BLOCKED 1057. gsender
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: AUR PKGBUILD lacks fixed sha256sums for source tarball in this revision; deterministic Guix source pinning incomplete in this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1058. gcn64tools-git
+** BLOCKED 1058. gcn64tools-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: VCS -git package uses moving HEAD/pkgver() with SKIP checksums; needs commit-pin strategy and packaging work beyond this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1059. cshatag
+** BLOCKED 1059. cshatag
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: Build/install recipe requires additional dependency audit and patching not completed in this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1060. brother-ql1050
+** BLOCKED 1060. brother-ql1050
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: Vendor RPM is 32-bit binary-only payload; requires dedicated binary repack/wrapper work not completed in this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1061. apngasm
+** BLOCKED 1061. apngasm
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: AUR PKGBUILD missing fixed source hash in this revision; deterministic fetch details need completion.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1062. zmx
+** BLOCKED 1062. zmx
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: AUR source uses zip asset indirection with missing fixed hash line in this revision; Guix recipe deferred.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1063. zigmir
+** BLOCKED 1063. zigmir
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: AUR recipe/source mapping requires additional upstream release verification and hash pinning not completed in this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1064. ytm-player-git
+** BLOCKED 1064. ytm-player-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: VCS -git package with pkgver() and SKIP checksums; requires pinned-commit packaging path not completed in this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
 ** DONE 1065. yt-dlp-gui
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -6416,17 +6416,17 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1066. youtui-player
+** BLOCKED 1066. youtui-player
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: Source/archive hash pinning and dependency audit not completed in this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1067. weathr
+** BLOCKED 1067. weathr
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: AUR recipe is commit-pinned git source with dynamic pkgver flow; Guix package implementation deferred this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
 ** DONE 1068. waybar-logitech-battery
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -6446,35 +6446,35 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1071. wallrust
+** BLOCKED 1071. wallrust
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: AUR recipe uses git source with SKIP checksums; deterministic source pinning not completed in this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1072. verify-everything
+** BLOCKED 1072. verify-everything
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: Source hash pinning and dependency review were not completed in this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1073. turtlectl-git
+** BLOCKED 1073. turtlectl-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: VCS -git package with pkgver()/SKIP checksums; commit-pinned Guix recipe deferred this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1074. ttf-oxanium
+** BLOCKED 1074. ttf-oxanium
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: Font zip source lacks completed Guix recipe + hash/installation phase validation in this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1075. tray_mixer_plus
+** BLOCKED 1075. tray_mixer_plus
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: Upstream source host and build recipe require additional verification/patching not completed in this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
 ** TODO 1076. tqsl
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -6620,11 +6620,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1100. python-torchao-rocm
+** BLOCKED 1100. python-torchao-rocm
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: Upstream is VCS/tag source with ROCm-specific runtime assumptions; requires dedicated ROCm dependency packaging work not completed in this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
 ** DONE 1101. python-smooth
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -7508,11 +7508,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1248. python-openvino
+** BLOCKED 1248. python-openvino
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 0.96, votes 17); not present in Guix/nonguix/repo queues at selection time.
+   - Status: AUR package endpoint unavailable (no PKGBUILD at https://aur.archlinux.org/python-openvino.git) during this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
 ** TODO 1249. openvino-intel-npu-plugin
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -9710,11 +9710,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1615. python-google-generativeai
+** BLOCKED 1615. python-google-generativeai
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.04, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: No usable upstream source release from PyPI/AUR in this pass (PyPI lacks source release for current series); needs alternate source strategy.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
 ** TODO 1616. betterbird-de-bin
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -11768,9 +11768,9 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1958. python-pywalfox
+** DONE 1958. python-pywalfox
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked AUR candidate (popularity 1.165, votes 10); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Status: Packaged as python-pywalfox in guix/gaurix/packages/python-queue-20260307.scm; validated with guix build/lint.
    - Difficulty: medium
    - TODO Status: DONE
 
@@ -12224,9 +12224,9 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 2034. python-zombie-imp
+** DONE 2034. python-zombie-imp
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked AUR candidate (popularity 1.027, votes 3); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Status: Packaged as python-zombie-imp in guix/gaurix/packages/python-queue-20260307.scm; validated with guix build/lint.
    - Difficulty: medium
    - TODO Status: DONE
 

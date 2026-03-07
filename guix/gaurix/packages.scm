@@ -14,6 +14,7 @@
   #:use-module (gaurix packages ffglitch)
   #:use-module (gaurix packages python-compat)
   #:use-module (gaurix packages python-queue-20260306)
+  #:use-module (gaurix packages python-queue-20260307)
   #:use-module (gaurix packages plymouth-themes-compat)
   #:export (
             waybar-claude-usage
@@ -196,6 +197,8 @@
             python-transmission-rpc
             python-proton-client
             python-diagrams
+            python-zombie-imp
+            python-pywalfox
             python-pyamdgpuinfo
             python-torrequest
             python-lsp-tree-sitter
