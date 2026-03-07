@@ -16,6 +16,26 @@
   #:use-module (gaurix packages python-queue-20260306)
   #:use-module (gaurix packages plymouth-themes-compat)
   #:export (
+            waybar-claude-usage
+            waybar-codex-usage
+            waybar-logitech-battery
+            glabels-qt-git
+            freecad-weekly-appimage
+            0ad-git
+            zenity-gtk3
+            openrgb-bin
+            melonds-git
+            girara-git
+            niri-dinit-git
+            niri-git
+            hyprland-meta-git
+            tree-sitter-cli-github-bin
+            evdi-dkms
+            yt-dlp-nightly-bin
+            yt-dlp-gui
+            bat-cat-git
+            yosys-nightly
+            qtox-toktok
             localsend-bin
             aider-chat
             lmstudio-bin

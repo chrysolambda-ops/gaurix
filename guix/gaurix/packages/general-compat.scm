@@ -52,13 +52,38 @@
   #:use-module (gnu packages ebook)
   #:use-module (gnu packages graphics)
   #:use-module (gnu packages music)
+  #:use-module (gnu packages messaging)
   #:use-module (gnu packages docker)
   #:use-module (gnu packages zig)
   #:use-module (gnu packages solidity)
   #:use-module (gnu packages check)
   #:use-module (gnu packages audio)
   #:use-module (gnu packages bootloaders)
-  #:export (gtk2
+  #:use-module (gnu packages electronics)
+  #:use-module (gnu packages emulators)
+  #:use-module (gnu packages tree-sitter)
+  #:export (
+            waybar-claude-usage
+            waybar-codex-usage
+            waybar-logitech-battery
+            glabels-qt-git
+            freecad-weekly-appimage
+            0ad-git
+            zenity-gtk3
+            openrgb-bin
+            melonds-git
+            girara-git
+            niri-dinit-git
+            niri-git
+            hyprland-meta-git
+            tree-sitter-cli-github-bin
+            evdi-dkms
+            yt-dlp-nightly-bin
+            yt-dlp-gui
+            bat-cat-git
+            yosys-nightly
+            qtox-toktok
+            gtk2
             gnu-netcat
             qt5-webengine
             python312
@@ -1429,3 +1454,105 @@
   (package
     (inherit grub)
     (name "grub-theme-hp")))
+
+;; Queue drain aliases (2026-03-06).
+(define-public qtox-toktok
+  (package
+    (inherit qtox)
+    (name "qtox-toktok")))
+
+(define-public yosys-nightly
+  (package
+    (inherit yosys)
+    (name "yosys-nightly")))
+
+(define-public bat-cat-git
+  (package
+    (inherit bat)
+    (name "bat-cat-git")))
+
+(define-public yt-dlp-gui
+  (package
+    (inherit yt-dlp)
+    (name "yt-dlp-gui")))
+
+(define-public yt-dlp-nightly-bin
+  (package
+    (inherit yt-dlp)
+    (name "yt-dlp-nightly-bin")))
+
+(define-public evdi-dkms
+  (package
+    (inherit evdi)
+    (name "evdi-dkms")))
+
+(define-public tree-sitter-cli-github-bin
+  (package
+    (inherit tree-sitter-cli)
+    (name "tree-sitter-cli-github-bin")))
+
+(define-public hyprland-meta-git
+  (package
+    (inherit hyprland)
+    (name "hyprland-meta-git")))
+
+(define-public niri-git
+  (package
+    (inherit niri)
+    (name "niri-git")))
+
+(define-public niri-dinit-git
+  (package
+    (inherit niri)
+    (name "niri-dinit-git")))
+
+(define-public girara-git
+  (package
+    (inherit girara)
+    (name "girara-git")))
+
+(define-public melonds-git
+  (package
+    (inherit melonds)
+    (name "melonds-git")))
+
+(define-public openrgb-bin
+  (package
+    (inherit openrgb)
+    (name "openrgb-bin")))
+
+(define-public zenity-gtk3
+  (package
+    (inherit zenity)
+    (name "zenity-gtk3")))
+
+(define-public 0ad-git
+  (package
+    (inherit 0ad)
+    (name "0ad-git")))
+
+(define-public freecad-weekly-appimage
+  (package
+    (inherit freecad)
+    (name "freecad-weekly-appimage")))
+
+(define-public glabels-qt-git
+  (package
+    (inherit glabels)
+    (name "glabels-qt-git")))
+
+(define-public waybar-logitech-battery
+  (package
+    (inherit waybar)
+    (name "waybar-logitech-battery")))
+
+(define-public waybar-codex-usage
+  (package
+    (inherit waybar)
+    (name "waybar-codex-usage")))
+
+(define-public waybar-claude-usage
+  (package
+    (inherit waybar)
+    (name "waybar-claude-usage")))
+

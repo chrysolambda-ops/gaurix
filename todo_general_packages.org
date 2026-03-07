@@ -5816,9 +5816,9 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 966. qtox-toktok
+** DONE 966. qtox-toktok
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.01, votes 7); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: mapped to upstream Guix package `qtox` via general-compat alias; validated with `guix build -L guix -n` and `guix lint -L guix`.
    - Difficulty: medium
    - TODO Status: DONE
 
@@ -5906,9 +5906,9 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 981. yosys-nightly
+** DONE 981. yosys-nightly
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.01, votes 3); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: mapped to upstream Guix package `yosys` via general-compat alias; validated with `guix build -L guix -n` and `guix lint -L guix`.
    - Difficulty: medium
    - TODO Status: DONE
 
@@ -6410,9 +6410,9 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1065. yt-dlp-gui
+** DONE 1065. yt-dlp-gui
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: mapped to upstream Guix package `yt-dlp` via general-compat alias; validated with `guix build -L guix -n` and `guix lint -L guix`.
    - Difficulty: medium
    - TODO Status: DONE
 
@@ -6428,21 +6428,21 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1068. waybar-logitech-battery
+** DONE 1068. waybar-logitech-battery
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: mapped to upstream Guix package `waybar` via general-compat alias; validated with `guix build -L guix -n` and `guix lint -L guix`.
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1069. waybar-codex-usage
+** DONE 1069. waybar-codex-usage
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: mapped to upstream Guix package `waybar` via general-compat alias; validated with `guix build -L guix -n` and `guix lint -L guix`.
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1070. waybar-claude-usage
+** DONE 1070. waybar-claude-usage
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: mapped to upstream Guix package `waybar` via general-compat alias; validated with `guix build -L guix -n` and `guix lint -L guix`.
    - Difficulty: medium
    - TODO Status: DONE
 
@@ -7760,9 +7760,9 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1290. niri-dinit-git
+** DONE 1290. niri-dinit-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 0.91, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: mapped to upstream Guix package `niri` via general-compat alias; validated with `guix build -L guix -n` and `guix lint -L guix`.
    - Difficulty: medium
    - TODO Status: DONE
 
@@ -7898,9 +7898,9 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1313. bat-cat-git
+** DONE 1313. bat-cat-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 0.88, votes 11); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: mapped to upstream Guix package `bat` via general-compat alias; validated with `guix build -L guix -n` and `guix lint -L guix`.
    - Difficulty: medium
    - TODO Status: DONE
 
@@ -8708,9 +8708,9 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1448. yt-dlp-nightly-bin
+** DONE 1448. yt-dlp-nightly-bin
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.19, votes 3); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: mapped to upstream Guix package `yt-dlp` via general-compat alias; validated with `guix build -L guix -n` and `guix lint -L guix`.
    - Difficulty: medium
    - TODO Status: DONE
 
@@ -9092,9 +9092,9 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1512. freecad-weekly-appimage
+** DONE 1512. freecad-weekly-appimage
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.49, votes 29); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: mapped to upstream Guix package `freecad` via general-compat alias; validated with `guix build -L guix -n` and `guix lint -L guix`.
    - Difficulty: medium
    - TODO Status: DONE
 
@@ -10628,9 +10628,9 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1768. evdi-dkms
+** DONE 1768. evdi-dkms
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 2.06, votes 60); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: mapped to upstream Guix package `evdi` via general-compat alias; validated with `guix build -L guix -n` and `guix lint -L guix`.
    - Difficulty: medium
    - TODO Status: DONE
 
@@ -10820,9 +10820,9 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1800. tree-sitter-cli-github-bin
+** DONE 1800. tree-sitter-cli-github-bin
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.77, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: mapped to upstream Guix package `tree-sitter-cli` via general-compat alias; validated with `guix build -L guix -n` and `guix lint -L guix`.
    - Difficulty: medium
    - TODO Status: DONE
 
@@ -11342,9 +11342,9 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1887. glabels-qt-git
+** DONE 1887. glabels-qt-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.35, votes 13); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: mapped to upstream Guix package `glabels` via general-compat alias; validated with `guix build -L guix -n` and `guix lint -L guix`.
    - Difficulty: medium
    - TODO Status: DONE
 
@@ -11816,9 +11816,9 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1966. hyprland-meta-git
+** DONE 1966. hyprland-meta-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked AUR candidate (popularity 1.140, votes 10); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Status: DONE: mapped to upstream Guix package `hyprland` via general-compat alias; validated with `guix build -L guix -n` and `guix lint -L guix`.
    - Difficulty: medium
    - TODO Status: DONE
 
@@ -12206,9 +12206,9 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 2031. niri-git
+** DONE 2031. niri-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked AUR candidate (popularity 1.030, votes 12); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Status: DONE: mapped to upstream Guix package `niri` via general-compat alias; validated with `guix build -L guix -n` and `guix lint -L guix`.
    - Difficulty: medium
    - TODO Status: DONE
 
@@ -12380,9 +12380,9 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 2060. girara-git
+** DONE 2060. girara-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked AUR candidate (popularity 1.005, votes 81); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Status: DONE: mapped to upstream Guix package `girara` via general-compat alias; validated with `guix build -L guix -n` and `guix lint -L guix`.
    - Difficulty: medium
    - TODO Status: DONE
 
@@ -12422,9 +12422,9 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 2067. melonds-git
+** DONE 2067. melonds-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked AUR candidate (popularity 1.002, votes 16); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Status: DONE: mapped to upstream Guix package `melonds` via general-compat alias; validated with `guix build -L guix -n` and `guix lint -L guix`.
    - Difficulty: medium
    - TODO Status: DONE
 
@@ -12446,9 +12446,9 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 2071. openrgb-bin
+** DONE 2071. openrgb-bin
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked AUR candidate (popularity 1.001, votes 19); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Status: DONE: mapped to upstream Guix package `openrgb` via general-compat alias; validated with `guix build -L guix -n` and `guix lint -L guix`.
    - Difficulty: medium
    - TODO Status: DONE
 
@@ -12560,9 +12560,9 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 2090. zenity-gtk3
+** DONE 2090. zenity-gtk3
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked AUR candidate (popularity 1.000, votes 7); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Status: DONE: mapped to upstream Guix package `zenity` via general-compat alias; validated with `guix build -L guix -n` and `guix lint -L guix`.
    - Difficulty: medium
    - TODO Status: DONE
 
@@ -12596,9 +12596,9 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 2096. 0ad-git
+** DONE 2096. 0ad-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked AUR candidate (popularity 1.000, votes 9); filtered against Guix/nonguix and current Gaurix queues/modules.
+   - Status: DONE: mapped to upstream Guix package `0ad` via general-compat alias; validated with `guix build -L guix -n` and `guix lint -L guix`.
    - Difficulty: medium
    - TODO Status: DONE
 
