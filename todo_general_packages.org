@@ -7118,17 +7118,17 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1183. dreamchess
+** BLOCKED 1183. dreamchess
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: Upstream source (`dreamchess` 0.3.0) builds with legacy autotools/OpenGL assumptions; Guix recipe needs nontrivial patching/input curation not completed in this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1184. dput-ng
+** BLOCKED 1184. dput-ng
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `dput-ng` requires Debian-specific Python stack + service integration; Guix package skeleton not completed/validated in this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
 ** TODO 1185. doudou-unstable
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -7154,11 +7154,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1189. csharpier
+** BLOCKED 1189. csharpier
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `csharpier` depends on .NET toolchain packaging/wrapper path not yet present in Gaurix; reproducible Guix recipe not completed today.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
 ** TODO 1190. cowtotext
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -7178,17 +7178,17 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1193. certbot-dns-pdns
+** BLOCKED 1193. certbot-dns-pdns
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `certbot-dns-pdns` needs certbot plugin dependency chain integration/testing; package definition not completed in this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1194. cat-browser-git
+** BLOCKED 1194. cat-browser-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `cat-browser-git` has low-maturity git snapshot packaging path; source pinning and dependency closure were not stabilized in this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
 ** TODO 1195. booklore
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -7214,17 +7214,17 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1199. arch-cache-cleaner-git
+** BLOCKED 1199. arch-cache-cleaner-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: AUR target is Arch cache-maintenance script tied to pacman cache layout; Guix-adapted implementation not completed in this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1200. alarm-notify
+** BLOCKED 1200. alarm-notify
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 1); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `alarm-notify` requires GNOME Shell/desktop notification wiring not yet packaged in repo; recipe+runtime validation incomplete.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
 ** TODO 1201. aggregate6-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -7250,23 +7250,23 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1205. bisq-desktop
+** BLOCKED 1205. bisq-desktop
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 0.96, votes 69); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `bisq-desktop` requires large Java/Gradle dependency graph and reproducible vendor-source strategy; full Guix recipe not finished today.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1206. bisq-daemon
+** BLOCKED 1206. bisq-daemon
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 0.96, votes 69); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `bisq-daemon` shares Bisq Java/Gradle stack blocker; daemon-only split package not completed in this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1207. bisq-cli
+** BLOCKED 1207. bisq-cli
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 0.96, votes 69); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `bisq-cli` shares Bisq Java/Gradle stack blocker; CLI artifact packaging path not completed in this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
 ** TODO 1208. yamtrack
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -7286,11 +7286,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1211. moodbar
+** BLOCKED 1211. moodbar
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 0.91, votes 163); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `moodbar` depends on older GStreamer/FFT integration and plugin install path adjustments; Guix recipe not completed today.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
 ** TODO 1212. v4l2loopback-dc-dkms
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -7298,23 +7298,23 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1213. droidcam
+** BLOCKED 1213. droidcam
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 0.92, votes 144); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `droidcam` requires userspace app + kernel module/virtual camera integration; Guix packaging split and kernel-module strategy not completed.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1214. gzdoom
+** BLOCKED 1214. gzdoom
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 0.90, votes 174); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `gzdoom` packaging requires IWAD/runtime launcher policy and SDL/openal dependency tuning; recipe validation not completed in this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1215. kapow
+** BLOCKED 1215. kapow
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 0.98, votes 16); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `kapow` (Qt app) needs upstream source integration and Qt input review; package definition not completed today.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
 ** BLOCKED 1216. ringracers
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -7322,23 +7322,23 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: BLOCKED
 
-** TODO 1217. lemonade-server
+** BLOCKED 1217. lemonade-server
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 0.99, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `lemonade-server` needs Go module/vendor pinning and service integration details; reproducible Guix package not completed.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1218. ledger-udev
+** BLOCKED 1218. ledger-udev
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 0.97, votes 29); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `ledger-udev` requires audited udev rules installation path and hardware-permission validation; package not completed in this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1219. wireguird
+** BLOCKED 1219. wireguird
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 0.98, votes 11); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `wireguird` requires Rust crate dependency lock/import work; Guix rust packaging pipeline not completed today.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
 ** TODO 1220. magicpodscore-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -7346,17 +7346,17 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1221. zulu-jre8-fx
+** BLOCKED 1221. zulu-jre8-fx
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 0.98, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `zulu-jre8-fx` is binary JRE with JavaFX; lawful binary package could be done, but source URI/hash pinning + wrapper constraints were not finalized in this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 1222. powerpanel
+** BLOCKED 1222. powerpanel
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.46, votes 7); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `powerpanel` is proprietary binary UPS software; lawful binary package path requires pinned vendor artifact/hash and FHS/wrapper handling not completed today.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
 ** TODO 1223. pear-desktop-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -7364,11 +7364,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1224. miktex
+** BLOCKED 1224. miktex
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.08, votes 13); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: `miktex` requires complex TeX ecosystem bootstrap and network-at-runtime behavior constraints; reproducible Guix recipe not completed.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
 ** TODO 1225. maszyna-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
