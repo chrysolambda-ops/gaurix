@@ -310,4 +310,6 @@
             plymouth-theme-rings-git
             plymouth-theme-rings-2-git
             plymouth-theme-red-loader-git
-            ))
+            
+            calibre-web
+            llama.cpp-cuda))

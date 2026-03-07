@@ -301,7 +301,9 @@
             grub-theme-centos
             grub-theme-bedrock-linux
             grub-theme-asus-tuf
-            grub-theme-asus-rog))
+            grub-theme-asus-rog
+            calibre-web
+            llama.cpp-cuda))
 
 (define-public gtk2
   (package
@@ -1556,3 +1558,12 @@
     (inherit waybar)
     (name "waybar-claude-usage")))
 
+(define-public calibre-web
+  (package
+    (inherit calibre)
+    (name "calibre-web")))
+
+(define-public llama.cpp-cuda
+  (package
+    (inherit llama-cpp-cuda)
+    (name "llama.cpp-cuda")))

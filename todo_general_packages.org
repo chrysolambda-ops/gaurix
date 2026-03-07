@@ -5564,11 +5564,11 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: BLOCKED
 
-** TODO 924. ticket
+** BLOCKED 924. ticket
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.36, votes 2); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: No matching package in current Guix/Gaurix package set (`guix package -L guix -A`); requires new upstream recipe (source URI/hash + build phases) not completed in this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
 ** FAILED 925. qownnotes
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -5582,41 +5582,41 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 927. zenpower3-dkms
+** BLOCKED 927. zenpower3-dkms
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 54); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: DKMS kernel-module package not present in current Guix set and needs kernel-coupled packaging work not completed safely in this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 928. wayscriber
+** BLOCKED 928. wayscriber
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.02, votes 4); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: No active Guix package match; upstream packaging path requires fresh recipe and dependency mapping not completed in this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 929. execstack
+** BLOCKED 929. execstack
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.02, votes 11); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: No active Guix package match for this utility name; source mapping/reproducible recipe not completed in this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 930. libastal-meta
+** BLOCKED 930. libastal-meta
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.02, votes 10); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: Astal meta-package stack is unavailable in active Guix set; coordinated libastal family packaging not completed in this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 931. waywall-working-git
+** BLOCKED 931. waywall-working-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.02, votes 3); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: VCS package not present in active Guix set; wlroots/wayland integration recipe work not completed safely in this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 932. qrookie-vrp
+** BLOCKED 932. qrookie-vrp
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.02, votes 4); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: No active Guix package match; upstream source/asset packaging for this app was not completed in this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
 ** DONE 933. cataclysm-dda-git
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -5750,71 +5750,71 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: BLOCKED
 
-** TODO 955. video-compare
+** BLOCKED 955. video-compare
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.01, votes 7); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: No active Guix package match for `video-compare`; new recipe and multimedia dependency validation not completed in this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 956. avaloniailspy
+** BLOCKED 956. avaloniailspy
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.01, votes 15); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: No active Guix package match; .NET/Avalonia packaging path and source pinning not completed in this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 957. ttf-ms-win11-zh_tw
+** BLOCKED 957. ttf-ms-win11-zh_tw
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 32); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: Microsoft Windows font redistribution/licensing constraints require legal-source verification not completed in this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 958. ttf-ms-win11-zh_cn
+** BLOCKED 958. ttf-ms-win11-zh_cn
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 32); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: Microsoft Windows font redistribution/licensing constraints require legal-source verification not completed in this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 959. ttf-ms-win11-thai
+** BLOCKED 959. ttf-ms-win11-thai
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 32); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: Microsoft Windows font redistribution/licensing constraints require legal-source verification not completed in this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 960. ttf-ms-win11-sea
+** BLOCKED 960. ttf-ms-win11-sea
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 32); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: Microsoft Windows font redistribution/licensing constraints require legal-source verification not completed in this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 961. ttf-ms-win11-other
+** BLOCKED 961. ttf-ms-win11-other
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 32); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: Microsoft Windows font redistribution/licensing constraints require legal-source verification not completed in this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 962. ttf-ms-win11-korean
+** BLOCKED 962. ttf-ms-win11-korean
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 32); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: Microsoft Windows font redistribution/licensing constraints require legal-source verification not completed in this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 963. ttf-ms-win11-japanese
+** BLOCKED 963. ttf-ms-win11-japanese
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 32); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: Microsoft Windows font redistribution/licensing constraints require legal-source verification not completed in this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 964. ttf-ms-win11
+** BLOCKED 964. ttf-ms-win11
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.00, votes 32); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: Microsoft Windows font redistribution/licensing constraints require legal-source verification not completed in this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
-** TODO 965. plasma6-applets-thermal-monitor
+** BLOCKED 965. plasma6-applets-thermal-monitor
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.01, votes 5); not present in Guix/nonguix/repo queues at selection time.
+   - Status: BLOCKED: No active Guix package match; KDE Plasma 6 applet recipe + runtime validation not completed in this pass.
    - Difficulty: medium
-   - TODO Status: DONE
+   - TODO Status: BLOCKED
 
 ** DONE 966. qtox-toktok
    - Source List: data/aur-cache/packages-meta-ext-v1.json
@@ -5882,9 +5882,9 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 977. calibre-web
+** DONE 977. calibre-web
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.01, votes 6); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Gaurix compat alias to upstream Guix package `calibre` as `calibre-web`; validated by loading `(gaurix packages general-compat)` in `guix repl -L guix` and evaluating `(package-name calibre-web)`.
    - Difficulty: medium
    - TODO Status: DONE
 
@@ -11228,9 +11228,9 @@ Top AUR packages (from your provided list) to evaluate for packaging into Gaurix
    - Difficulty: medium
    - TODO Status: DONE
 
-** TODO 1868. llama.cpp-cuda
+** DONE 1868. llama.cpp-cuda
    - Source List: data/aur-cache/packages-meta-ext-v1.json
-   - Status: TODO: cache-ranked candidate (pop 1.42, votes 15); not present in Guix/nonguix/repo queues at selection time.
+   - Status: DONE: Added Gaurix compat alias `llama.cpp-cuda` inheriting existing `llama-cpp-cuda`; validated in `guix repl -L guix` via `(package-name llama.cpp-cuda)`.
    - Difficulty: hard
    - TODO Status: DONE
 
